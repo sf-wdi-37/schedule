@@ -2,6 +2,48 @@
 # WDI 37 Schedule
 
 
+<!-- ###Week 13 - "Life after WDI"
+Outcomes
+
+
+###Week 12 - "Capstone Project 3"
+Project 3 -> (Next Steps)
+
+###Week 11 - "Review/Advanced Topics"
+(Review) -> Project 3
+
+###Week 10 - "Team Project 2"
+Project 2
+
+###Week 9 - "Rails"
+Rails
+
+###Week 8 - "Ruby"
+Ruby -> Rails
+
+###Week 7 - "Collaboration"
+Vagabond -> (Ruby)
+
+###Week 6 - "React"
+React
+
+###Week 5 - "Angular"
+(Project 1) -> Angular
+
+###Week 4 - "Full-Stack Project 1"
+(Tunely) -> Project 1
+
+###Week 3 - "Server-side JavaScript"
+Express -> Mongoose
+
+###Week 2 "HTTP and APIs"
+JS, JSON, HTTP, OOP
+
+-->
+
+###Week 1 - Languages, Libraries, and Tools
+<!-- (HTML, CSS) -> JS -> DOM -->
+
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 10:30am** | Orientation (Ali) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Site Parade (BV)
