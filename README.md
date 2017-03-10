@@ -25,7 +25,7 @@
 [1-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-01.md#tuesday "Tues HW"
 
 [1-3A]: https://github.com/sf-wdi-37/js-functions "JavaScript Functions"
-[1-3B]: https://github.com/sf-wdi-37/functions-training "Functions Training"
+[1-3B]: https://github.com/sf-wdi-37/functions-exercises "Functions Training"
 [1-3C]: # "..."
 [1-3D]: https://github.com/sf-wdi-37/personal-portfolio "Personal Portfolio"
 [1-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-01.md#wednesday "Wednesday HW"
