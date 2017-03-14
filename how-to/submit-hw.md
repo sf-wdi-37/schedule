@@ -1,10 +1,8 @@
-#Instructions for Submitting Homework
-
-TODO: UPDATE
+# Instructions for Submitting Homework
 
 Check your class schedule for a write up of the nightly homework and weekend labs.
 
-Most of the work we'll ask you to do will live in its own repository, which you will need to **fork & clone**.  These repositories will usually live in your class's GitHub organization.
+Some of the work we'll ask you to do will live in its own repository, which you will need to **fork & clone**.  These repositories will usually be in your class's GitHub organization.
 
 Each day, you'll be asked to submit a link to the previous night's homework on our [daily pulse check form](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLScL2yoPs7IOJ1vQrpE4NMt3dlENu7pY5WyOk5d8IIEJ_XFkOw/viewform). The assignment will specify the link to submit each day.
 
