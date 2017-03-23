@@ -46,7 +46,7 @@ JS, JSON, HTTP, OOP
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Orientation (Ali) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Site Parade (BV)
+**9:15am <br> 10:45am** | Orientation (Team) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Site Parade (BV)
 **11:00am <br> 12:30pm** | Icebreakers (Team) | [Github Workflow (CF)][1-2B] | [Training: Functions (CF)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (BV)
 **1:30pm <br> 2:45pm** | [Command Line (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | Outcomes | [DOM Events (BV)][1-4C] | [Materialize (CF)][1-5C]
 **3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow (BV)][1-2D] | [Training: My Personal Site (EJ)][1-3D] | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
