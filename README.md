@@ -84,4 +84,4 @@ JS, JSON, HTTP, OOP
 [1-5D]: https://github.com/sf-wdi-37/tic-tac-toe "Tic Tac Toe"
 [1-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-01.md#weekend "Weekend hw"
 
-[Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6)
+<!-- [Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6) -->
