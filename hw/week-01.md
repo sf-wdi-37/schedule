@@ -10,9 +10,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 link to submit on tonight's pulse check: none
 
-1. Complete the [WDI fundamentals check in](https://docs.google.com/document/d/1stI0UU1osRPgaZnvhcwNDlJMEGe4cn5vlEfzcGjXTgE/edit?usp=sharing) to hand in on WEDNESDAY MORNING! This should help you review some important topics from fundamentals and give us a better idea of what to review with the class or individuals:
+1. Complete [installfest](https://github.com/sf-wdi-37/installfest) to set up your machine for the course.
 
-2. Complete [installfest](https://github.com/sf-wdi-37/installfest) to set up your machine for the course.
+2. Complete the [WDI fundamentals check in](https://docs.google.com/document/d/1stI0UU1osRPgaZnvhcwNDlJMEGe4cn5vlEfzcGjXTgE/edit?usp=sharing) to hand in on **WEDNESDAY MORNING**! This should help you review some important topics from fundamentals and give us a better idea of what to review with the class or individuals.
 
 3. Watch [Growth Mindset TED Talk](https://www.youtube.com/watch?v=pN34FNbOKXc) and think about how you can apply a growth mindset to your life as a developer!
 
