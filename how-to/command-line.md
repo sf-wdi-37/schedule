@@ -1,4 +1,12 @@
-# Playing with text on the command line
+# Command Line Interface
+
+```
+portions of this readme are from or adapted from
+work by Noah Veltman
+Web: http://noahveltman.com
+Twitter: @veltman
+Email: noah@noahveltman.com
+```
 
 The command line (also known as the command line interface, or CLI, or sometimes the terminal), is a plain text­based interface for executing
 commands on a computer. If you've ever seen a movie about hackers from the 1980s, like WarGames, where they stare at a prompt on a black
@@ -28,7 +36,7 @@ The prompt will also show what directory you're currently sitting in. Whenever y
 matters because when you execute a command that involves a filename or a directory name, you can specify it one of two ways:
 
 
-###Relative Paths
+### Relative Paths
 Specifying a file or directory as a relative path means you are specifying where it sits relative to the directory you're in. For example, let's say
 you're in the `videos` subdirectory of the `files` directory. You'll see this prompt:
 
@@ -38,7 +46,7 @@ you're in the `videos` subdirectory of the `files` directory. You'll see this pr
 
 If you execute a command like `touch newfile.txt` , it will create newfile.txt inside the current directory. Relative paths don't start with a slash.  
 
-###Absolute Paths
+### Absolute Paths
 Specifying a file or directory as an absolute path means you are specifying where it sits on the computer in absolute terms, starting from the top
 level. For example, let's say you're in the `videos` subdirectory of the `files` directory again.
 
@@ -86,7 +94,7 @@ If you're ever unsure of what directory you're in, you can use the `pwd` (Print 
 /Users/Noah
 ```  
 
-##File Patterns
+## File Patterns
 In most cases when you have to specify a file name or folder name, you can also specify a general **pattern** that might match multiple files. There are lots of ins and outs with this, but the most basic version is using the asterisk (*), which matches anything. It's also known as a wildcard.  
 
 ```bash
@@ -98,7 +106,7 @@ In most cases when you have to specify a file name or folder name, you can also 
 /files$ rm data*
 ```  
 
-##Navigating
+## Navigating
 The two core commands for navigating what folder the prompt is in are `cd` and `ls`.  
 
 `cd` stands for "Change Directory" and must be followed by a directory you want to change to. You can supply an absolute or relative path.  
@@ -159,7 +167,7 @@ However, if there is more than possible file/folder that matches what you've typ
 and hit 'Tab,' nothing will happen because you could be on your way to `photo1.jpg` OR `photo2.jpg`.  
 
 
-#Command Output
+# Command Output
 
 The commands we're going to talk about all output their results as text. When you execute the command by hitting 'Enter', it will print out a bunch of
 output on extra lines below the prompt. For example, `head[file]` will print out the first 10 lines of a file.
@@ -182,7 +190,7 @@ StijnDebrouwere
 Notice that after it prints out its output, it goes back to giving you a fresh prompt. Getting the output printed out to you in this fashion is useful if
 you're just poking around, but often you want to do one of two things: **send the output to a file**, or **send the output to another command as an input**.  
 
-##Sending the output to a file
+## Sending the output to a file
 
 You can send the output to a new file this way:  
 
@@ -200,7 +208,7 @@ You can append the output to the end of an existing file this way:
 
 This will add the output as 10 new lines at the end of `allnames.txt.  `
 
-##Sending the Output to another command as an input
+## Sending the Output to another command as an input
 You can send the output to another command using the pipe symbol (|). The grep command searches through some text for matches (more on this later), so you could do this to get the first 10 lines of a file, and then search for "Steve" within those 10 lines:
 
 ```bash
@@ -224,7 +232,7 @@ command into the second. You can chain as many of these together as you want:
 This would search the file addresses.csv for lines that contain the phrase "United States", then search the results for lines that contain the word
 "California", and then print out the first 10 of those matches.  
 
-##Grep
+## Grep
 The `grep` command will let you search a file (or multiple files) for a phrase. By default, it will print out each line that matches your search.  
 
 Print out lines that contain the word "darkwing":  
@@ -286,7 +294,7 @@ Show line numbers along with the matching lines:
 grep -n "Daffy" famousducks.txt
 ```
 
-##Cat
+## Cat
 The cat command will combine multiple files together. This will print three files in a row, as if they were one file:  
 
 ```bash
@@ -307,7 +315,7 @@ If you want to combine ALL of the files in a folder, you can use a wildcard:
 cat * > allfilescombined.txt  
 ```
 
-##Head
+## Head
 The head command will print out the first 10 lines of a file:  
 
 ```bash
@@ -329,7 +337,7 @@ Or, if you want to print all the file but leave out the LAST 15 lines, you can g
 One of the nice uses of head is to quickly peek inside a large text file to see what's in it without having to wait for a text editor to load it. This
 becomes a big deal when you're talking about a 1 GB file!  
 
-##Tail
+## Tail
 The tail command is the reverse of head. It will print out the last 10 lines of a file:  
 
 ```bash
@@ -354,7 +362,7 @@ This is helpful if you want to, say, remove a header row from a CSV file:
 /files$ tail -n +1 names.txt > names-no-header.txt  
 ```
 
-##Miscellaneous  
+## Miscellaneous  
 
 How many lines are in names.txt?
 
@@ -362,7 +370,7 @@ How many lines are in names.txt?
 /files$ wc -­l names.txt  
 ```
 
-##Regular Expressions
+## Regular Expressions
 When using something like `grep` to search, you can search for a simple term with only letters, numbers, and spaces. But if you want to search
 for a pattern, you can use what's called a **regular expression**. Regular expressions use special characters to represent patterns, like "any
 number," "any letter," "X or Y," "at least three lowercase letters," and so on.  
@@ -385,7 +393,7 @@ One more example:
 ```
 This would match things like least , beast , and heist .
 
-##Command combo-moves and technical 'fireballs'
+## Command combo-moves and technical 'fireballs'
 
 There are often lots of equally legitimate commands or combinations of commands to achieve the same purpose.
 Example:  
@@ -411,7 +419,3 @@ is pretty much the same as:
 (Save everything but the first 7 lines to a temporary file, then print the first 5 lines of that, then delete the temporary file)
 ```
 
-Noah Veltman
-Web: http://noahveltman.com
-Twitter: @veltman
-Email: noah@noahveltman.com
