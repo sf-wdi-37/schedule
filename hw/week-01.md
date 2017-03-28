@@ -23,11 +23,11 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Read through http://learnlayout.com/ and look carefully at the examples. This should take about 30-45 minutes.
 
-2. Spend ~45 min - 1 hour on this site-recreation layout activity: https://github.com/sf-wdi-37/site-recreation
+2. Spend ~45 min - 1 hour on [this site-recreation layout activity.](https://github.com/sf-wdi-37/site-recreation) 
 
-3. Spend ~45 min - 1 hour completing at least the Security Questions portion in https://github.com/sf-wdi-37/js-control-flow-training/ 
+3. Spend ~45 min - 1 hour completing at least the Security Questions portion in [JavaScript Control Flow](https://github.com/sf-wdi-37/js-control-flow-training/)
 
-Bonus activity: look ahead at tomorrow’s functions lesson - https://github.com/sf-wdi-37/js-functions - if you still have time/energy.
+Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com/sf-wdi-37/js-functions) - if you still have time/energy.
 
 ** Remember your personal portfolio is due Friday! **
 <!--
