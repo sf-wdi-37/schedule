@@ -48,8 +48,8 @@ JS, JSON, HTTP, OOP
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Orientation (Team) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Site Parade (BV)
 **11:00am <br> 12:30pm** | Icebreakers (Team) | [Github Workflow (CF)][1-2B] | [Training: Functions (CF)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (BV)
-**1:30pm <br> 2:45pm** | [Command Line (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | Outcomes | [DOM Events (BV)][1-4C] | [Materialize (CF)][1-5C]
-**3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow (BV)][1-2D] | [Training: My Personal Site (EJ)][1-3D] | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
+**1:30pm <br> 2:45pm** | [Command Line (BV)][1-1C] |  [JS Data Types][1-2C] & [Training][1-2C2] (BV) | Outcomes | [DOM Events (BV)][1-4C] | [Materialize (CF)][1-5C]
+**3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow][1-2D] & [Training][1-2D2] (BV) | [Training: My Personal Site (EJ)][1-3D] | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
 **Evening** | [Fundamentals Review (BV)][1-1E] | [Control flow training][1-2E]  | [Functions training][1-3E] | [jQuery Training and personal site][1-4E] | Tic-Tac-Toe
 
 
@@ -63,7 +63,9 @@ JS, JSON, HTTP, OOP
 [1-2A]: https://github.com/sf-wdi-37/html-css-review "HTML and CSS Review"
 [1-2B]: https://github.com/sf-wdi-37/git-github "Git and GitHub"
 [1-2C]: https://github.com/sf-wdi-37/js-data-types "JS Data Types"
+[1-2C2]:  https://github.com/sf-wdi-37/js-data-types-training "JS Data Types Training"
 [1-2D]: https://github.com/sf-wdi-37/js-control-flow "Control Flow"
+[1-2D2]: https://github.com/sf-wdi-37/js-control-flow-training "Control Flow Training"
 [1-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-01.md#tuesday "Tues HW"
 
 [1-3A]: https://github.com/sf-wdi-37/js-functions "JavaScript Functions"
