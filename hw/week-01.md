@@ -29,6 +29,8 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com/sf-wdi-37/js-functions) - if you still have time/energy.
 
+### [Instructions for Submitting Homework](https://github.com/sf-wdi-37/schedule/blob/master/how-to/submit-hw.md)
+
 ** Remember your personal portfolio is due Friday! **
 <!--
 ### Wednesday
