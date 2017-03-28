@@ -16,12 +16,20 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 3. Watch [Growth Mindset TED Talk](https://www.youtube.com/watch?v=pN34FNbOKXc) and think about how you can apply a growth mindset to your life as a developer!
 
-<!--
+
 ### Tuesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Read through http://learnlayout.com/ and look carefully at the examples. This should take about 30-45 minutes.
 
+2. Spend ~45 min - 1 hour on this site-recreation layout activity: https://github.com/sf-wdi-37/site-recreation
+
+3. Spend ~45 min - 1 hour completing at least the Security Questions portion in https://github.com/sf-wdi-37/js-control-flow-training/ 
+
+Bonus activity: look ahead at tomorrow’s functions lesson - https://github.com/sf-wdi-37/js-functions - if you still have time/energy.
+
+<!--
 ### Wednesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
