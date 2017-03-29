@@ -39,7 +39,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises) Dont't forget to look at the solutions if you get too stuck!
 
-Optional: Look ahead at tomorrows lessons for [DOM Manipulation](https://github.com/sf-wdi-37/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-37/dom-events-jquery)
+Optional: Look ahead at the lessons for tomorrow, [DOM Manipulation](https://github.com/sf-wdi-37/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-37/dom-events-jquery)
 
 <!--
 ### Thursday
