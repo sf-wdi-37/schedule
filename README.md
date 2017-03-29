@@ -32,10 +32,60 @@ React
 
 ###Week 4 - "Full-Stack Project 1"
 (Tunely) -> Project 1
+-->
 
-###Week 3 - "Server-side JavaScript"
-Express -> Mongoose
 
+### Week 3 - Server-side JavaScript
+<!-- Express -> Mongoose -->
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | Guest UX Speaker: Dassi |  [Review (BV)](https://github.com/sf-wdi-34/students-activites-api)
+ **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] | [Formative Assessment (BV)](https://docs.google.com/document/d/1Ho9FsmA3mys0uCmVkbZ0uiVQgtsGx522FPcoz10b9Z8/edit?usp=sharing)
+ **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Training: Book App Sprint 2 (AC)][3-3C] | [Intro Personal API (CF)][3-4C] | Personal API (CF)
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Outcomes (MJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (CF)  
+**Evening** | [Express Training][3-1E] |[Book app sprint 1][3-2E] | [Book app sprint 2][3-3E] | [Personal API][3-4E] | [Personal API][3-5E]
+
+
+
+[3-1A]: # "..."
+[3-1B]: https://github.com/sf-wdi-34/express "Express and Node"
+[3-1C]: https://github.com/sf-wdi-34/express-dynamic-routes "..."
+[3-1D]: https://github.com/sf-wdi-34/express-routes-training "..."
+[3-1E]: https://github.com/sf-wdi-34/schedule/tree/master/hw/week-03.md#monday "..."
+
+
+[3-2A]: https://github.com/sf-wdi-34/test-driven-todo-api "Todo"
+[3-2B]: https://github.com/sf-wdi-34/test-driven-todo-api "Todo"
+[3-2C]: https://github.com/sf-wdi-34/mongoose "Mongo and mongoose"
+[3-2D]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
+[3-2E]: https://github.com/sf-wdi-34/schedule/tree/master/hw/week-03.md#tuesday "..."
+
+[3-3A]: https://github.com/sf-wdi-34/mongoose-associations "Mongoose Associations"
+[3-3B]: https://github.com/sf-wdi-34/mongoose-associations "Mongoose Associations"
+[3-3C]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
+[3-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[3-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#wednesday
+
+[3-4A]: # "..."
+[3-4B]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
+[3-4C]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
+[3-4D]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
+[3-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#thursday "Thursday HW"
+
+[3-5A]: # "..."
+[3-5B]: # "..."
+[3-5C]: # "..."
+[3-5D]: # "..."
+[3-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#weekend "Weekend HW"
+
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/ce17451200bab52b9ee7bebd207c276f)
+<!-- removed: https://github.com/sf-wdi-34/software-development-best-practices -->
+
+
+
+<!--
 ###Week 2 "HTTP and APIs"
 JS, JSON, HTTP, OOP
 
