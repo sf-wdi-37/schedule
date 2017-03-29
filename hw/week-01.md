@@ -31,7 +31,7 @@ Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): control flow training link (your forked repository on GitHub)
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [control flow training](https://github.com/sf-wdi-37/js-control-flow-training/) link (your forked repository on GitHub).
 
 1. For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises). Don't forget to look at the solutions if you get too stuck!
 
