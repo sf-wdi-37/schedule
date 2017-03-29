@@ -2,9 +2,7 @@
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
-
-
-
+### [Instructions for Submitting Homework](https://github.com/sf-wdi-37/schedule/blob/master/how-to/submit-hw.md)
 
 ### Monday
 
@@ -29,17 +27,19 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com/sf-wdi-37/js-functions) - if you still have time/energy.
 
-### [Instructions for Submitting Homework](https://github.com/sf-wdi-37/schedule/blob/master/how-to/submit-hw.md)
-
-** Remember your personal portfolio is due Friday! **
+**Remember your personal portfolio is due Friday!**
 
 ### Wednesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
-For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises) Dont't forget to look at the solutions if you get too stuck!
+1. For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises). Don't forget to look at the solutions if you get too stuck!
+
+2. Work on your personal portfolio project, which is **due Friday!**
+
 
 Optional: Look ahead at the lessons for tomorrow, [DOM Manipulation](https://github.com/sf-wdi-37/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-37/dom-events-jquery)
+
 
 <!--
 ### Thursday
