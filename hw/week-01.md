@@ -32,12 +32,16 @@ Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com
 ### [Instructions for Submitting Homework](https://github.com/sf-wdi-37/schedule/blob/master/how-to/submit-hw.md)
 
 ** Remember your personal portfolio is due Friday! **
-<!--
+
 ### Wednesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises) Dont't forget to look at the solutions if you get too stuck!
 
+Optional: Look ahead at tomorrows lessons for [DOM Manipulation](https://github.com/sf-wdi-37/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-37/dom-events-jquery)
+
+<!--
 ### Thursday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
