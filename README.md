@@ -45,7 +45,7 @@ Express -> Mongoose
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Iterator Methods & Callbacks (BV) ][2-1A] | [HTML Bootstrap Build (CF)][2-2A]  | [Templating w/ String Interpolation (BV)][2-3A] | [OO JS (BV)][2-4A] | Formative Assessment & Review (CF)
  **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (CF)][2-2B] | [Geoquakes (BV)][2-3B] | [OO JS (BV)][2-4B] | Continue Review (CF)
- **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | [Outcomes (NJ)][2-3C] | [Intro Project 0 (CF)][2-4C] | Project 0 (BV)
+ **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | No Outcomes [Fun with Emily and Resources (EJ)][2-3C] | [Intro Project 0 (CF)][2-4C] | Project 0 (BV)
 **3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Geoquakes (EJ)][2-3D] | [Project 0 (CF)][2-4D] | Project 0 (BV)   
 **Evening** | [Objects training][2-1E] | [API training][2-2E] | [Geoquakes][2-3E]  | [Review & Project 0][2-4E] | Project 0
 
