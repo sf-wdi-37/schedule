@@ -41,12 +41,18 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 Optional: Look ahead at the lessons for tomorrow, [DOM Manipulation](https://github.com/sf-wdi-37/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-37/dom-events-jquery)
 
 
-<!--
+
 ### Thursday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+To submit tonight: [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises)
+1. Complete the [jQuery DOM lab](https://github.com/sf-wdi-37/jquery-dom-lab) and look through the solutions 
+2. Look over the solutions branch of the [debugging lab](https://github.com/sf-wdi-37/dev-tools-training/tree/solutions) *Look at the commits on the solution branch to see the changes made to fix the site at each stage.*
+3. Complete Ready, Click, and then Submit (if you have time) in [DOM Events and jQuery](https://github.com/sf-wdi-37/jquery-events-training)
+4. Personal portfolio website!!
 
+<!--
 ### Weekend
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
