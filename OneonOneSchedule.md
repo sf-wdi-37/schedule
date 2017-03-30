@@ -15,7 +15,7 @@ Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
 ----  | ------- | -------- | --------- | --------- | --------- |
 4:15pm  |       |          |           |           |           |
 4:30pm  |       |          |           | Will      | Mahmoud   |
-4:45pm  |       |          |           | Donald    | Kevin     |
+4:45pm  |       |          |           | Donny     | Kevin     |
 
 
 ## One on One Schedule
@@ -33,5 +33,5 @@ Time  | Monday  | Tuesday  | Wednesday | Thursday | Friday     |
 Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
 ----  | ------- | -------- | --------- | --------- | --------- |
 4:15pm  |       |          |           |           |           |
-4:30pm  | Will  | Donald   |           | Kevin     | Mahmoud   |
+4:30pm  | Will  | Donny    |           | Kevin     | Mahmoud   |
 4:45pm  |       |          |           |           |           |
