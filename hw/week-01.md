@@ -51,6 +51,7 @@ To submit tonight: [Javascript Functions Training](https://github.com/sf-wdi-37/
 2. Look over the solutions branch of the [debugging lab](https://github.com/sf-wdi-37/dev-tools-training/tree/solutions) *Look at the commits on the solution branch to see the changes made to fix the site at each stage.*
 3. Complete Ready, Click, and then Submit (if you have time) in [DOM Events and jQuery](https://github.com/sf-wdi-37/jquery-events-training)
 4. Personal portfolio website!!
+5. Lastly, please look over your Fundamentals Review packet and the [solutions.](https://docs.google.com/document/d/1Qy9zcYYXzFIsJe-guwe_44GbK_1Q_SolTuFbHvH95Ns/edit?ts=58dbfdf1)
 
 <!--
 ### Weekend
