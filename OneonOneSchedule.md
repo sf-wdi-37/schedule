@@ -40,5 +40,5 @@ Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
 Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
 ----  | ------- | -------- | --------- | --------- | --------- |
 4:15pm  |       |          |           |           |           |
-4:30pm  | Donny |  Sejin   |  Addy     | Kevin     |           |
-4:45pm  |       |  Mahmoud |  Michael  | Julie     |           |
+4:30pm  | Donny |  Sejin   |  Addy     | Michael   |           |
+4:45pm  |       |  Mahmoud |  Kevin    | Julie     |           |
