@@ -6,7 +6,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
 1. Complete [installfest](https://github.com/sf-wdi-37/installfest) to set up your machine for the course.
 
@@ -17,7 +17,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Tuesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
 1. Read through http://learnlayout.com/ and look carefully at the examples. This should take about 30-45 minutes.
 
@@ -31,7 +31,7 @@ Bonus activity: look ahead at [tomorrow’s functions lesson](https://github.com
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [control flow training](https://github.com/sf-wdi-37/js-control-flow-training/) link (your forked repository on GitHub).
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [control flow training](https://github.com/sf-wdi-37/js-control-flow-training/) link (your forked repository on GitHub).
 
 1. For about 1-1.5 Hours - Continue working on the [Javascript Functions Training](https://github.com/sf-wdi-37/functions-exercises). Don't forget to look at the solutions if you get too stuck!
 
@@ -54,10 +54,14 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 5. Please look over your Fundamentals Review packet and the [solutions.](https://docs.google.com/document/d/1Qy9zcYYXzFIsJe-guwe_44GbK_1Q_SolTuFbHvH95Ns/edit?ts=58dbfdf1)
 6. Finally, review the [Week One Objectives](https://gist.github.com/cofauver/de116e2e030004fdf17ef3f8a43952b3) and come in tomorrow with two questions you need more information on!
 
-<!--
+
 ### Weekend
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [DOM Events](https://github.com/sf-wdi-37/jquery-events-training)
+
+1. [Tic Tac Toe!](https://github.com/sf-wdi-37/tic-tac-toe)
+2. Optional reading for a peek at next week: [How the Internet Works.](https://github.com/SF-WDI-LABS/how-the-internet-works/blob/master/readme.md)
+3. Further optional fun reading [Networking! Ack! A Computer Networking 'Zine!](http://jvns.ca/networking-zine.pdf)
 
 
--->
+
