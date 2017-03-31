@@ -35,3 +35,10 @@ Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
 4:15pm  |       |          |           |           |           |
 4:30pm  | Will  | Donny    |           | Kevin     | Mahmoud   |
 4:45pm  |       |          |           |           |           |
+
+### Patricia's Group
+Time  | Monday  | Tuesday  | Wednesday | Thursday  | Friday    |
+----  | ------- | -------- | --------- | --------- | --------- |
+4:15pm  |       |          |           |           |           |
+4:30pm  | Donny |  Sejin   |  Will     | Kevin     | Addy      |
+4:45pm  | Jane  |  Mahmoud |  Michael  | Julie     |           |
