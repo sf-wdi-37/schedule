@@ -9,6 +9,10 @@ The evening trainings and readings below will help you solidify work so far and/
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Tic Tac Toe](https://github.com/sf-wdi-37/tic-tac-toe)
 
+1. [Javascript Objects Problem Set](https://github.com/sf-wdi-37/js-objects-training)
+
+NOTE: After you work on these problems, you MUST look at and study [the solutions here!](https://github.com/sf-wdi-37/js-objects-training/tree/solutions/challenges)
+
 <!--
 
 ### Tuesday
