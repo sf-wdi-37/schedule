@@ -35,11 +35,53 @@ React
 
 ###Week 3 - "Server-side JavaScript"
 Express -> Mongoose
-
-###Week 2 "HTTP and APIs"
-JS, JSON, HTTP, OOP
-
 -->
+
+
+### Week 2 - HTTP and APIs
+<!-- JS, JSON, HTTP, OOP -->
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Iterator Methods & Callbacks (BV) ][2-1A] | [HTML Forms (CF)][2-2A]  | [Templating w/ String Interpolation (BV)][2-3A] | [OO JS (BV)][2-4A] | Formative Assessment & Review (CF)
+ **11:00am <br> 12:30pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (CF)][2-2B] | [Geoquakes (BV)][2-3B] | [OO JS (BV)][2-4B] | Continue Review (CF)
+ **1:30pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | No Outcomes [Fun with Emily and Resources (EJ)][2-3C] | [Intro Project 0 (CF)][2-4C] | Project 0 (BV)
+**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Geoquakes (EJ)][2-3D] | [Project 0 (CF)][2-4D] | Project 0 (BV)   
+**Evening** | [Objects training][2-1E] | [API training][2-2E] | [Geoquakes][2-3E]  | [Review & Project 0][2-4E] | Project 0
+
+[2-1A]: https://github.com/sf-wdi-37/iterator-methods "Iterator Methods"
+[2-1B]: https://github.com/sf-wdi-37/building-js-iterators-lab/ "Iterator Methods"
+[2-1C]: https://github.com/sf-wdi-37/js-objects "JavaScript Objects"
+[2-1D]: https://github.com/sf-wdi-37/js-objects-training "Objects training"
+[2-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#monday "monday hw"
+
+[2-2A]: https://github.com/sf-wdi-37/bootstrap-build "bootstrap build"
+[2-2B]: https://github.com/sf-wdi-37/html-forms "..."
+[2-2C]: https://github.com/sf-wdi-37/ajax "AJAX"
+[2-2D]: https://github.com/sf-wdi-37/giffaw "Giphy lab"
+[2-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#tuesday "tuesday hw"
+
+
+[2-3A]: https://github.com/sf-wdi-37/handlebars-client-side-templating "..."
+[2-3B]: https://github.com/sf-wdi-37/geoquakes "Geoquakes"
+[2-3C]: https://github.com/sf-wdi-37/geoquakes "Geoquakes"
+[2-3D]: https://github.com/sf-wdi-37/geoquakes "Geoquakes"
+[2-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#wednesday "wednesday hw"
+
+[2-4A]: https://github.com/sf-wdi-37/js-oop-flower-power "..."
+[2-4B]: https://github.com/sf-wdi-37/js-oop-flower-power "..."
+[2-4C]: https://github.com/sf-wdi-37/project-0 "..."
+[2-4D]: https://github.com/sf-wdi-37/project-0 "..."
+[2-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#wednesday "thursday hw"
+
+[2-5A]: # "..."
+[2-5B]: # "..."
+[2-5C]: # "..."
+[2-5D]: # "..."
+
+<!-- [Weekly Checklist](https://gist.github.com/bgveenstra/3c6fa4374d5c231f7e8a36dc26e48234) -->
+
+
 
 ### Week 1 - Languages, Libraries, and Tools
 <!-- (HTML, CSS) -> JS -> DOM -->
