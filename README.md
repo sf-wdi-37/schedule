@@ -55,7 +55,7 @@ Express -> Mongoose
 [2-1D]: https://github.com/sf-wdi-37/js-objects-training "Objects training"
 [2-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#monday "monday hw"
 
-[2-2A]: https://github.com/sf-wdi-37/bootstrap-build "bootstrap build"
+[2-2A]: https://github.com/sf-wdi-37/html-forms "html forms"
 [2-2B]: https://github.com/sf-wdi-37/html-forms "..."
 [2-2C]: https://github.com/sf-wdi-37/ajax "AJAX"
 [2-2D]: https://github.com/sf-wdi-37/giffaw "Giphy lab"
