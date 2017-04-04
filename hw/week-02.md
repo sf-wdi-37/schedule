@@ -12,13 +12,14 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 1. Complete [Javascript Objects Problem Set](https://github.com/sf-wdi-37/js-objects-training), or spend 2 hours making as much progress as you can. After you work on these problems, you MUST look at and study [the solutions here](https://github.com/sf-wdi-37/js-objects-training/tree/solutions/challenges)!  
 
 
-<!--
 
 ### Tuesday
 
-Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Objects Training](https://github.com/sf-wdi-37/js-objects-traininghttps://github.com/sf-wdi-37/js-objects-training)
 
+1. [Giffaw API training](https://github.com/sf-wdi-37/giffaw). Spend ~2 hours on getting this site up and running to meet the "Basic Requirements."
 
+<!--
 ### Wednesday
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
