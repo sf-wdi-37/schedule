@@ -57,7 +57,7 @@ Express -> Mongoose
 
 [2-2A]: https://github.com/sf-wdi-37/html-forms "html forms"
 [2-2B]: https://github.com/sf-wdi-37/html-forms "..."
-[2-2C]: https://github.com/sf-wdi-37/ajax "AJAX"
+[2-2C]: https://github.com/sf-wdi-37/intro-ajax "AJAX"
 [2-2D]: https://github.com/sf-wdi-37/giffaw "Giphy lab"
 [2-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#tuesday "tuesday hw"
 
