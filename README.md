@@ -38,11 +38,10 @@ React
 ### Week 3 - Server-side JavaScript
 <!-- Express -> Mongoose -->
 
-@TODO - names
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | Book App Sprint 3 |  [Review (BV)](https://github.com/sf-wdi-34/students-activites-api)
+ **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] |  [Review (BV)](https://github.com/sf-wdi-34/students-activites-api)
  **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] | [Formative Assessment (BV)](https://docs.google.com/document/d/1Ho9FsmA3mys0uCmVkbZ0uiVQgtsGx522FPcoz10b9Z8/edit?usp=sharing)
  **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | Tunely Intro (CF)
 **3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Tunely (CF)  
@@ -69,7 +68,7 @@ React
 [3-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [3-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#wednesday
 
-[3-4A]: # "..."
+[3-4A]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App" 
 [3-4B]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
 [3-4C]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
 [3-4D]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
