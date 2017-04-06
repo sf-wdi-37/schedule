@@ -79,7 +79,7 @@ Express -> Mongoose
 [2-5C]: # "..."
 [2-5D]: # "..."
 
-[Weekly Checklist](https://gist.github.com/ladydangerdame/5f3537045833efff8897a40074252f65)
+[Weekly Objective Checklist](https://gist.github.com/ladydangerdame/5f3537045833efff8897a40074252f65)
 
 
 
