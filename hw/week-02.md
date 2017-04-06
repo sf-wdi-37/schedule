@@ -22,7 +22,7 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Wednesday
 
-Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Giffaw](https://github.com/sf-wdi-37/giffaw)
 
 1. Continue work on [Geoquakes](https://github.com/sf-wdi-37/geoquakes) for at least one hour.  
 
