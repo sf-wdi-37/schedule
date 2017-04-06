@@ -68,8 +68,8 @@ Express -> Mongoose
 [2-3D]: https://github.com/sf-wdi-37/geoquakes "Geoquakes"
 [2-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#wednesday "wednesday hw"
 
-[2-4A]: https://github.com/sf-wdi-37/js-oop-flower-power "..."
-[2-4B]: https://github.com/sf-wdi-37/js-oop-flower-power "..."
+[2-4A]: https://github.com/sf-wdi-37/object-oriented-js "..."
+[2-4B]: https://github.com/sf-wdi-37/object-oriented-js "..."
 [2-4C]: https://github.com/sf-wdi-37/project-0 "..."
 [2-4D]: https://github.com/sf-wdi-37/project-0 "..."
 [2-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-02.md#wednesday "thursday hw"
