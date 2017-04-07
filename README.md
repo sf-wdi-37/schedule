@@ -52,8 +52,8 @@ React
 
 [3-1A]: # "..."
 [3-1B]: https://github.com/sf-wdi-37/express "Express and Node"
-[3-1C]: https://github.com/sf-wdi-37/express-dynamic-routes "..."
-[3-1D]: https://github.com/sf-wdi-37/express-routes-training "..."
+[3-1C]: https://github.com/sf-wdi-37/express-dynamic-routes "Express Dynamic Routes"
+[3-1D]: https://github.com/sf-wdi-37/express-routes-training "Express Routes Training"
 [3-1E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-03.md#monday "..."
 
 
@@ -65,8 +65,8 @@ React
 
 [3-3A]: https://github.com/sf-wdi-37/mongoose-associations "Mongoose Associations"
 [3-3B]: https://github.com/sf-wdi-37/mongoose-associations "Mongoose Associations"
-[3-3C]: https://github.com/sf-wdi-37/mongoose-books-app "Mongoose Book App"
-[3-3D]: https://github.com/sf-wdi-37/schedule/blob/master/WDI%2037%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[3-3C]: # "Outcomes Schedule"
+[3-3D]:  https://github.com/sf-wdi-37/mongoose-books-app "Mongoose Book App"
 [3-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-03.md#wednesday
 
 [3-4A]: https://github.com/sf-wdi-37/mongoose-books-app "Mongoose Book App"
