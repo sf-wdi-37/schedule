@@ -13,6 +13,8 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 2. Complete [Express Params and Routes Training.](https://github.com/sf-wdi-37/express-routes-training)
 
+3. Read about the [Test Driven Development Cycle!](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle)
+
 <!--
 
 ### Tuesday
