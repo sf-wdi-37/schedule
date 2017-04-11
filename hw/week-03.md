@@ -22,7 +22,7 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Express Route and Params](https://github.com/sf-wdi-37/express-routes-training)
 
 
-1. Spend ~2 hours on Sprint One of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app). If you get stuck, review the [solutions.](https://github.com/sf-wdi-37/mongoose-books-app/tree/solution-sprint-1)
+1. Spend ~2 hours on Sprint One of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app). If you get stuck, review the [solutions.](https://github.com/sf-wdi-37/mongoose-books-app/tree/solution-sprint-1) (especially the server.js file!)
 
 <!--
 ### Wednesday
