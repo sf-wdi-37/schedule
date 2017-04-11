@@ -21,9 +21,8 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Express Route and Params](https://github.com/sf-wdi-37/express-routes-training)
 
-1. Review the [ToDo App solutions](https://github.com/sf-wdi-37/test-driven-todo-api/blob/solution/server.js) from this morning.
 
-2. Complete Sprint One of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app)
+1. Complete Sprint One of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app)
 
 <!--
 ### Wednesday
