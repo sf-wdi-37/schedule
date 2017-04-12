@@ -33,16 +33,13 @@ React
 
 -->
 
-###Week 4 - "Full-Stack Project 1"
+### Week 4 - Full-Stack Project 1
 <!-- (Tunely) -> Project 1 -->
-
-### Week 4 - Server-side JavaScript
-<!-- Express -> Mongoose -->
 
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | [Tunely][4-1A] |  [Algorithms & Big O][4-2A]| [Binary Search][4-3A] | [Drill][4-4A] |  [Drill][4-5A]
+ **9:15am <br> 10:45am** | [Tunely][4-1A] |  [Algorithms & Big O][4-2A]| [Binary Search?][4-3A] | [Drill][4-4A] |  [Drill][4-5A]
  **11:00am <br> 12:30pm** | [Tunely][4-1B] | [Project 1][4-2B] | [Project 1][4-3B] | [Project 1][4-4B] | [Project 1][4-5B]
  **1:30pm <br> 2:45pm** | [GitHub Collaboration][4-1C] |  [Project 1][4-2C] | [Outcomes (NJ)][4-3C] | [Project 1][4-4C] | Project 1
 **3:00pm <br> 4:30pm** | [Intro Project 1][4-1D] | [Project 1][4-2D] | [Project 1][4-3D] | [Project 1][4-4D] | Project 1 Presentations  
