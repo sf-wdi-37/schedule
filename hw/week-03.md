@@ -34,7 +34,7 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Thursday
 
-Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): Your Personal API Heroku link!
 
 1. Keep working on your [Personal API!](https://github.com/sf-wdi-37/express-personal-api)
 
