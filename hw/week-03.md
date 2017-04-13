@@ -31,12 +31,14 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Tackle Sprint 2 of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app) If you get stuck, have a look at the Sprint 2 Solutions branch on the github page.
 
-<!--
+
 ### Thursday
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Keep working on your [Personal API!](https://github.com/sf-wdi-37/express-personal-api)
 
+<!--
 ### Weekend
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
