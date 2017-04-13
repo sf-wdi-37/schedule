@@ -30,7 +30,7 @@ React
 
 -->
 
-### Week 5 - "Angular"
+### Week 5 - Angular
 
 <!-- (Project 1) -> Angular -->
 
