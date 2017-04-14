@@ -42,7 +42,7 @@ React
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] |  [Review (BV)](https://github.com/sf-wdi-37/students-activites-api)
+ **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] |  Review (BV)
  **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] | [Formative Assessment](https://docs.google.com/document/d/11w-w8Uth3xLXTIF96NflP0BTAFlmmjZrfo64BGKqo0g/edit?usp=sharing) (BV)
  **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | Tunely Intro (CF)
 **3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Tunely (CF)  
