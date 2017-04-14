@@ -76,7 +76,7 @@ React
 [4-5B]: # "..."
 [4-5C]: # "..."
 [4-5D]: # "..."
-[4-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-03.md#weekend "Weekend HW"
+[4-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#weekend "Weekend HW"
 
 
 
