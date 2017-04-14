@@ -43,5 +43,7 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
-1. Work on [Tunely](https://github.com/sf-wdi-37/tunely) through at least sprint 3. 
+1. Work on [Tunely](https://github.com/sf-wdi-37/tunely) through at least sprint 3. As you work through Tunely, take notes that will help you build out your own projects, like important steps to take or error messages that you want to recognize later!
+
+2. Next week is our **first full-stack project week**, think of a few project ideas you might want to build.  Project guidelines will ask you to do full CRUD on one resource and at least create and read for another, related resource.  We haven't gone over how to do login yet, so try to come up with an idea or two that **doesn't need users.**
 
