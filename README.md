@@ -44,8 +44,8 @@ React
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] | [Formative Assessment](https://docs.google.com/document/d/11w-w8Uth3xLXTIF96NflP0BTAFlmmjZrfo64BGKqo0g/edit?usp=sharing) (BV) 
  **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] |  Review (BV)  
- **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | Tunely Intro (CF)
-**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Tunely (CF)  
+ **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | [Tunely Intro][3-5D] (CF)
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | [Tunely][3-5D] (CF)  
 **Evening** | [Express Training][3-1E] |[Book app sprint 1][3-2E] | [Book app sprint 2][3-3E] | [Personal API][3-4E] | [Tunely][3-5E]
 
 
@@ -78,7 +78,7 @@ React
 [3-5A]: # "..."
 [3-5B]: # "..."
 [3-5C]: # "..."
-[3-5D]: # "..."
+[3-5D]: https://github.com/sf-wdi-37/tunely "Tunely"
 [3-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-03.md#weekend "Weekend HW"
 
 
