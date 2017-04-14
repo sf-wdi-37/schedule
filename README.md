@@ -83,7 +83,7 @@ React
 
 
 
-[Weekly Checklist](https://gist.github.com/bgveenstra/ce17451200bab52b9ee7bebd207c276f)
+[Weekly Checklist](https://gist.github.com/ladydangerdame/2aff69a4dcf0cb776520623e1706ae33)
 <!-- removed: https://github.com/sf-wdi-37/software-development-best-practices -->
 
 
