@@ -31,9 +31,54 @@ React
 ###Week 5 - "Angular"
 (Project 1) -> Angular
 
-###Week 4 - "Full-Stack Project 1"
-(Tunely) -> Project 1
 -->
+
+### Week 4 - Full-Stack Project 1
+<!-- (Tunely) -> Project 1 -->
+
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Tunely (CF)][4-1A] |  [Algorithms & Big O (BV)][4-2A]| [Bubble Sort (BV)][4-3A] | [Merge (CF)][4-4A] |  [MergeSort (BV)][4-5A]
+ **11:00am <br> 12:30pm** | [Tunely (CF)][4-1B] | [Project 1 Meetings (ALL)][4-2B] | [Project 1 (BV)][4-3B] | [Project 1 (CF)][4-4B] | [Project 1 (BV)][4-5B]
+ **1:30pm <br> 2:45pm** | [GitHub Collaboration (BV)][4-1C] |  [Project 1 (CF)][4-2C] | [Outcomes (NJ)][4-3C] | [Project 1 (BV)][4-4C] | Project 1 (CF)
+**3:00pm <br> 4:30pm** | [Intro Project 1 (BV)][4-1D] | [Project 1 (CF)][4-2D] | [Project 1 (EJ)][4-3D] | [Project 1 (BV)][4-4D] | Project 1 Presentations (ALL) 
+**Evening** | [Project 1 Planning][4-1E] |[Project 1][4-2E] | [Project 1][4-3E] | [Project 1][4-4E] | [Project Wrapup & Angular Lookahead][4-5E]
+
+
+
+[4-1A]: # "..."
+[4-1B]: # "..."
+[4-1C]: # "..."
+[4-1D]: # "..."
+[4-1E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#monday "..."
+
+
+[4-2A]: # "..."
+[4-2B]: # "..."
+[4-2C]: # "..."
+[4-2D]: # "..."
+[4-2E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#tuesday "..."
+
+[4-3A]: # "..."
+[4-3B]: # "..."
+[4-3C]: # "Outcomes Schedule"
+[4-3D]: # "..."
+[4-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#wednesday
+
+[4-4A]: # "..."
+[4-4B]: # "..."
+[4-4C]: # "..."
+[4-4D]: # "..."
+[4-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#thursday "Thursday HW"
+
+[4-5A]: # "..."
+[4-5B]: # "..."
+[4-5C]: # "..."
+[4-5D]: # "..."
+[4-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#weekend "Weekend HW"
+
+
 
 
 ### Week 3 - Server-side JavaScript
