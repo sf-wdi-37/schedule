@@ -50,7 +50,7 @@ React
 [4-1A]: # "..."
 [4-1B]: # "..."
 [4-1C]: https://github.com/sf-wdi-37/github-collaboration "GitHub Collaboration"
-[4-1D]: # "..."
+[4-1D]: https://github.com/sf-wdi-37/project-1 "project 1"
 [4-1E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#monday "..."
 
 
