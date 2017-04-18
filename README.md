@@ -54,7 +54,7 @@ React
 [4-1E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#monday "..."
 
 
-[4-2A]: # "..."
+[4-2A]: https://github.com/sf-wdi-37/algorithm-complexity-and-big-o "Algorithms & Big O"
 [4-2B]: # "..."
 [4-2C]: # "..."
 [4-2D]: # "..."
