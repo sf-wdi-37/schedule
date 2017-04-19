@@ -60,7 +60,7 @@ React
 [4-2D]: # "..."
 [4-2E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#tuesday "..."
 
-[4-3A]: # "..."
+[4-3A]: https://github.com/sf-wdi-37/bubble-sort/blob/master/README.md "bubble sort"
 [4-3B]: # "..."
 [4-3C]: # "Outcomes Schedule"
 [4-3D]: # "..."
