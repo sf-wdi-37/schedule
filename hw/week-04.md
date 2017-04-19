@@ -9,19 +9,19 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Work on the project 1 planning deliverables. You will present your plan for approval **before** 12:30pm tomorrow!
 
-
-<!--
-
-
 ### Tuesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Continue work on project 1 with your team!
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your team's project 1 repository
 
+1. Continue work on project 1 with your team!
+
+<!--
 
 ### Thursday
 
