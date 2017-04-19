@@ -41,9 +41,9 @@ React
  **11:00am <br> 12:30pm** | [Angular Intro (CF)][5-1B] | [`$http` Create and Read (BV)][5-2B] |  [Client-side Routing (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
  **1:30pm <br> 3:00pm** | [Directives & Expressions (BV)][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Outcomes (NJ)][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
 **3:15pm <br> 4:30pm** | [Directives & Expressions (BV)][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Practice][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
-**Evening** | [Project 1](https://github.com/sf-wdi-37/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book App][5-5E]
+**Evening** | [Training][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
 
-[5-1A]: https://github.com/sf-wdi-37/bubble-sort "bubble sort"
+[5-1A]: # "bubble sort"
 [5-1B]: # "..."
 [5-1C]: # "..."
 [5-1D]: # "..."
@@ -51,31 +51,31 @@ React
 [5-1F]: # "..."
 [5-1G]: # "..."
 
-[5-2A]: https://github.com/sf-wdi-37/mergesort "..."
+[5-2A]: # "..."
 [5-2B]: # "..."
 [5-2C]: # "..."
 [5-2D]: # "..."
-[5-2E]: https://github.com/sf-wdi-37/schedule/blob/week-5-training/week-5-training.md#tuesday "Tuesday hw"
+[5-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Tuesday hw"
 
-[5-3A]: https://github.com/sf-wdi-37/intro-angular "Angular Intro"
+[5-3A]: # "https://github.com/sf-wdi-37/intro-angular"
 [5-3B]: # "..."
-[5-3C]: https://github.com/sf-wdi-37/ng-hangman "..."
-[5-3D]: https://github.com/sf-wdi-37/ng-hangman "..."
-[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/week-5-training.md#wednesday "..."
+[5-3C]: # "https://github.com/sf-wdi-37/ng-hangman "
+[5-3D]: # "..."
+[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW" "..."
 
-[5-4A]: https://github.com/sf-wdi-37/ng-read-create "..."
+[5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
 
-[5-4B]: https://github.com/sf-wdi-37/ng-read-create "..."
+[5-4B]: # "..."
 [5-4C]: # "..."
-[5-4D]: https://github.com/sf-wdi-37/ng-update-delete "UD"
-[5-4E]: https://github.com/sf-wdi-37/ng-update-delete "..."
+[5-4D]: # "https://github.com/sf-wdi-37/ng-update-delete"
+[5-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#thursday "Thursday HW"
 
 
-[5-5A]: https://github.com/sf-wdi-37/angular-routing "..."
-[5-5B]: https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md "..."
+[5-5A]: # "https://github.com/sf-wdi-37/angular-routing"
+[5-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
 [5-5C]: # "..."
-[5-5D]: https://github.com/sf-wdi-37/angular-books-crud-lab "..."
-[5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/week-5-training.md#weekend "..."
+[5-5D]: # "https://github.com/sf-wdi-37/angular-books-crud-lab"
+[5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
 
