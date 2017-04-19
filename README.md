@@ -61,10 +61,9 @@ React
 [5-3B]: # "..."
 [5-3C]: # "https://github.com/sf-wdi-37/ng-hangman "
 [5-3D]: # "..."
-[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW" "..."
+[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW" 
 
 [5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
-
 [5-4B]: # "..."
 [5-4C]: # "..."
 [5-4D]: # "https://github.com/sf-wdi-37/ng-update-delete"
