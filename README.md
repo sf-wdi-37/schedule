@@ -66,10 +66,10 @@ React
 [4-3D]: # "..."
 [4-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#wednesday
 
-[4-4A]: # "..."
-[4-4B]: # "..."
-[4-4C]: # "..."
-[4-4D]: # "..."
+[4-4A]: https://github.com/sf-wdi-37/merge "Merge"
+[4-4B]: https://github.com/sf-wdi-37/project-1 "..."
+[4-4C]: https://github.com/sf-wdi-37/project-1 "..."
+[4-4D]: https://github.com/sf-wdi-37/project-1 "..."
 [4-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#thursday "Thursday HW"
 
 [4-5A]: # "..."
