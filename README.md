@@ -27,7 +27,7 @@ Vagabond -> (Ruby)
 -->
 
 
-#### Week 6 - React
+### Week 6 - React
 
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
