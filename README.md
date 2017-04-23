@@ -38,15 +38,15 @@ React
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | [Angular Intro (BV)][5-1A] |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Wrapup (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
- **11:00am <br> 12:30pm** | [Angular Intro (BV)][5-1B] | [`$http` Create and Read (BV)][5-2B] |  [Client-side Routing (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
+ **11:00am <br> 12:30pm** | [Tunely Angular 1 (BV)][5-1B] | [`$http` Create and Read (BV)][5-2B] |  [Client-side Routing (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
  **1:30pm <br> 3:00pm** | [Directives & Expressions (BV)][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Outcomes (NJ)][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
-**3:15pm <br> 4:30pm** | [Directives & Expressions (BV)][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Practice][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
+**3:15pm <br> 4:30pm** | [Angular Movie Lab (BV)][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Practice][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
 **Evening** | [Training][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
 
-[5-1A]: # "bubble sort"
-[5-1B]: # "..."
-[5-1C]: # "..."
-[5-1D]: # "..."
+[5-1A]: https://github.com/sf-wdi-37/intro-angular/ "angular intro"
+[5-1B]: https://github.com/SF-WDI-LABS/tunely-angular "tunely-angular sprint 1"
+[5-1C]: https://github.com/sf-wdi-37/angular_directives_lab "angular directives & expressions"
+[5-1D]: https://github.com/SF-WDI-LABS/angular-movie-lab "angular directives & expressions 2"
 [5-1E]: # "..."
 [5-1F]: # "..."
 [5-1G]: # "..."
