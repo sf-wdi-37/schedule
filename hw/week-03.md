@@ -24,20 +24,26 @@ Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Spend ~2 hours on Sprint One of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app). If you get stuck, review the [solutions.](https://github.com/sf-wdi-37/mongoose-books-app/tree/solution-sprint-1) (especially the server.js file!)
 
-<!--
+
 ### Wednesday
 
-Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [Your Book App repo](https://github.com/sf-wdi-37/mongoose-books-app)
+
+1. Tackle Sprint 2 of [Book App!](https://github.com/sf-wdi-37/mongoose-books-app) If you get stuck, have a look at the Sprint 2 Solutions branch on the github page.
 
 
 ### Thursday
 
-Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): Your Personal API Heroku link!
+
+1. Keep working on your [Personal API!](https://github.com/sf-wdi-37/express-personal-api)
 
 
 ### Weekend
 
 Link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Work on [Tunely](https://github.com/sf-wdi-37/tunely) through at least sprint 3. As you work through Tunely, take notes that will help you build out your own projects, like important steps to take or error messages that you want to recognize later!
 
--->
+2. Next week is our **first full-stack project week**, think of a few project ideas you might want to build.  Project guidelines will ask you to do full CRUD on one resource and at least create and read for another, related resource.  We haven't gone over how to do login yet, so try to come up with an idea or two that **doesn't need users.**
+

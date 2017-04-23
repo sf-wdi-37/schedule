@@ -28,12 +28,11 @@ Vagabond -> (Ruby)
 ###Week 6 - "React"
 React
 
+<<<<<<< HEAD
 -->
 
 ### Week 5 - Angular
-
 <!-- (Project 1) -> Angular -->
-
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
@@ -61,7 +60,7 @@ React
 [5-3B]: # "..."
 [5-3C]: # "https://github.com/sf-wdi-37/ng-hangman "
 [5-3D]: # "..."
-[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW" 
+[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW"
 
 [5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
 [5-4B]: # "..."
@@ -79,6 +78,51 @@ React
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
 
 
+### Week 4 - Full-Stack Project 1
+<!-- (Tunely) -> Project 1 -->
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Tunely (CF)][4-1A] |  [Algorithms & Big O (BV)][4-2A]| [Bubble Sort (BV)][4-3A] | [Merge (CF)][4-4A] |  [MergeSort (BV)][4-5A]
+ **11:00am <br> 12:30pm** | [Tunely (CF)][4-1B] | [Project 1 Meetings (ALL)][4-2B] | [Project 1 (BV)][4-3B] | [Project 1 (CF)][4-4B] | [Project 1 (BV)][4-5B]
+ **1:30pm <br> 2:45pm** | [GitHub Collaboration (BV)][4-1C] |  [Project 1 (CF)][4-2C] | [Outcomes (NJ)][4-3C] | [Project 1 (BV)][4-4C] | Project 1 (CF)
+**3:00pm <br> 4:30pm** | [Intro Project 1 (BV)][4-1D] | [Project 1 (CF)][4-2D] | [Project 1 (EJ)][4-3D] | [Project 1 (BV)][4-4D] | Project 1 Presentations (ALL)
+**Evening** | [Project 1 Planning][4-1E] |[Project 1][4-2E] | [Project 1][4-3E] | [Project 1][4-4E] | [Project Wrapup & Angular Lookahead][4-5E]
+
+
+
+[4-1A]: https://github.com/sf-wdi-37/tunely "..."
+[4-1B]: https://github.com/sf-wdi-37/tunely "..."
+[4-1C]: https://github.com/sf-wdi-37/github-collaboration "GitHub Collaboration"
+[4-1D]: https://github.com/sf-wdi-37/project-1 "project 1"
+[4-1E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#monday "..."
+
+
+[4-2A]: https://github.com/sf-wdi-37/algorithm-complexity-and-big-o "Algorithms & Big O"
+[4-2B]: # "..."
+[4-2C]: # "..."
+[4-2D]: # "..."
+[4-2E]: https://github.com/sf-wdi-37/schedule/tree/master/hw/week-04.md#tuesday "..."
+
+[4-3A]: https://github.com/sf-wdi-37/bubble-sort/blob/master/README.md "bubble sort"
+[4-3B]: # "..."
+[4-3C]: # "Outcomes Schedule"
+[4-3D]: # "..."
+[4-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#wednesday
+
+[4-4A]: https://github.com/sf-wdi-37/merge "Merge"
+[4-4B]: https://github.com/sf-wdi-37/project-1 "..."
+[4-4C]: https://github.com/sf-wdi-37/project-1 "..."
+[4-4D]: https://github.com/sf-wdi-37/project-1 "..."
+[4-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#thursday "Thursday HW"
+
+[4-5A]: # "..."
+[4-5B]: # "..."
+[4-5C]: # "..."
+[4-5D]: # "..."
+[4-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-04.md#weekend "Weekend HW"
+
+
 
 
 ### Week 3 - Server-side JavaScript
@@ -87,10 +131,10 @@ React
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] |  [Review (BV)](https://github.com/sf-wdi-37/students-activites-api)
- **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] | Formative Assessment (BV)<!--(https://docs.google.com/document/d/1Ho9FsmA3mys0uCmVkbZ0uiVQgtsGx522FPcoz10b9Z8/edit?usp=sharing)-->
- **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | Tunely Intro (CF)
-**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Tunely (CF)  
+ **9:15am <br> 10:45am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App Sprint 3 (BV)][3-4A] | [Formative Assessment](https://docs.google.com/document/d/11w-w8Uth3xLXTIF96NflP0BTAFlmmjZrfo64BGKqo0g/edit?usp=sharing) (BV)
+ **11:00am <br> 12:30pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App Sprint 3 (BV)][3-4B] |  Review (BV)  
+ **1:30pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Outcomes (NJ)][3-3C] | [Intro Personal API (CF)][3-4C] | [Tunely Intro][3-5D] (CF)
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Training: Book App Sprint 2 (EJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | [Tunely][3-5D] (CF)  
 **Evening** | [Express Training][3-1E] |[Book app sprint 1][3-2E] | [Book app sprint 2][3-3E] | [Personal API][3-4E] | [Tunely][3-5E]
 
 
@@ -123,13 +167,12 @@ React
 [3-5A]: # "..."
 [3-5B]: # "..."
 [3-5C]: # "..."
-[3-5D]: # "..."
+[3-5D]: https://github.com/sf-wdi-37/tunely "Tunely"
 [3-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-03.md#weekend "Weekend HW"
 
 
-<!--
-[Weekly Checklist](https://gist.github.com/bgveenstra/ce17451200bab52b9ee7bebd207c276f)
--->
+
+[Weekly Checklist](https://gist.github.com/ladydangerdame/2aff69a4dcf0cb776520623e1706ae33)
 <!-- removed: https://github.com/sf-wdi-37/software-development-best-practices -->
 
 
