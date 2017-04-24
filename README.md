@@ -47,7 +47,7 @@ React
 [5-1B]: # "Outcomes"
 [5-1C]: # "UX Collaboration"
 [5-1D]: https://github.com/sf-wdi-37/tunely-angular "tunely-angular sprint 1"
-[5-1E]: https://github.com/sf-wdi-37/schedule/edit/master/hw/week-05.md#monday "Monday training"
+[5-1E]: https://github.com/sf-wdi-37/schedule/hw/week-05.md#monday "Monday training"
 
 [5-2A]: # "..."
 [5-2B]: # "..."
