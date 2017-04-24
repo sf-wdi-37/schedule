@@ -38,7 +38,7 @@ React
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | [Angular Intro][5-1A] & [Directives][5-1A2] Resources (BV) |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Wrapup (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
  **11:00am <br> 12:30pm** | Outcomes (NJ) | [`$http` Create and Read (BV)][5-2B] |  [Client-side Routing (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
- **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Outcomes (NJ)][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
+ **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Angular Lab Time][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
 **3:15pm <br> 4:30pm** | [Tunely Angular Sprint 1][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Practice][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
 **Evening** | [Training Tasks][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
 
