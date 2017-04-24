@@ -2,7 +2,7 @@
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
-<!--
+
 
 
 ### Monday
@@ -20,8 +20,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
  * Where do you think angular might be using DOM events behind the scenes?
 
 3. To prepare for using the `$http` service tomorrow, read [the `$http` service documentation](https://docs.angularjs.org/api/ng/service/$http). Specifically, look at the **General Usage**, **Usage - Arguments**, and **Examples** sections.  How does Angular's `$http` service compare to jQuery's `$.ajax` method?  This should take about 30-45 minutes. 
- 
--->
+
 <!-- 4. OPTIONAL - If you would like practice creating an angular app from scratch, try building a site to track movies you want to watch, with an [Angular Movie Lab](https://github.com/SF-WDI-LABS/angular-movie-lab).  -->
 
 <!--
