@@ -49,10 +49,10 @@ React
 [5-1D]: https://github.com/sf-wdi-37/tunely-angular "tunely-angular sprint 1"
 [5-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#monday "Monday training"
 
-[5-2A]: # "..."
-[5-2B]: # "..."
-[5-2C]: # "..."
-[5-2D]: # "..."
+[5-2A]: https://github.com/sf-wdi-37/ng-read-create "angular create and read"
+[5-2B]: https://github.com/sf-wdi-37/ng-read-create "angular create and read"
+[5-2C]: https://github.com/sf-wdi-37/ng-update-delete "angular update and delete"
+[5-2D]: https://github.com/sf-wdi-37/ng-update-delete "angular update and delete"
 [5-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#tuesday "Tuesday hw"
 
 [5-3A]: # "https://github.com/sf-wdi-37/intro-angular"
