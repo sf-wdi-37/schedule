@@ -21,7 +21,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Tuesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): project 1!
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): project 1 GitHub repo!
 
 1. Complete [Tunely Angular sprint 3](https://github.com/SF-WDI-37/tunely-angular/blob/master/docs/sprint3.md)! Take time to explore and review the [`solutions_sprint_3 branch`](https://github.com/sf-wdi-37/tunely-angular/tree/solutions_sprint_3) after you spend 2 hours on sprint 3, you should spend at least 30 minutes with the solutions. Take notes on how your solutions varied from the provided solutions.
 
