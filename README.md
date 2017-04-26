@@ -38,35 +38,35 @@ Vagabond -> (Ruby)
 **3:15pm <br> 4:30pm** | [ATM lab][6-1D] | [Todo lab][6-2D] |  [React OMDB lab][6-3D] | [React (CR)UD][6-4D] | [Wayfarer][6-5D]
 **Evening** | [Training][6-1E] |  [Training][6-2E] |  [Training][6-3E] | [Training][6-4E] | [Wayfarer][6-5E]
 
-[6-1A]: # "..."
-[6-1B]: # "..."
-[6-1C]: # "..."
+[6-1A]: https://github.com/SF-WDI-LABS/es6 "..."
+[6-1B]: https://github.com/SF-WDI-LABS/react-intro "..."
+[6-1C]: https://github.com/SF-WDI-LABS/react-intro-2 "..."
 [6-1D]: # "..."
 [6-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#monday "Monday hw"
 
-[6-2A]: # "..."
+[6-2A]: https://github.com/SF-WDI-LABS/react_todo_walkthrough "..."
 [6-2B]: # "..."
 [6-2C]: # "..."
 [6-2D]: # "..."
 [6-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#tuesday "Tuesday hw"
 
-[6-3A]: # "https://github.com/sf-wdi-37/intro-angular"
+[6-3A]: https://github.com/SF-WDI-LABS/react-omdb "..."
 [6-3B]: # "..."
-[6-3C]: # "https://github.com/sf-wdi-37/ng-hangman "
+[6-3C]: # "..."
 [6-3D]: # "..."
 [6-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#wednesday "Wednesday HW"
 
-[6-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
+[6-4A]: https://github.com/SF-WDI-LABS/MERN-CRUD-Lab "..."
 [6-4B]: # "..."
 [6-4C]: # "..."
-[6-4D]: # "https://github.com/sf-wdi-37/ng-update-delete"
+[6-4D]: # "..."
 [6-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#thursday "Thursday HW"
 
 
-[6-5A]: # "https://github.com/sf-wdi-37/angular-routing"
-[6-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
-[6-5C]: # "..."
-[6-5D]: # "https://github.com/sf-wdi-37/angular-books-crud-lab"
+[6-5A]: # "..."
+[6-5B]: # "..."
+[6-5C]: https://github.com/sf-wdi-36/project-wayfarer "..."
+[6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
