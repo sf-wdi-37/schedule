@@ -29,7 +29,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 3. OPTIONAL - If you would like practice creating an angular app from scratch, try building a site to track movies you want to watch, with an [Angular Movie Lab](https://github.com/SF-WDI-LABS/angular-movie-lab).
 
-<!--
+
 ### Wednesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
@@ -38,6 +38,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 2. Go back through Tunely Angular sprints 1-4 and write or diagram the main goal of each sprint as well as how you completed it. Include at least 3 specific steps per sprint and which files you changed. Review solutions for any parts of Tunely Angular sprint 1-4 that were particularly confusing for you. 
 
+<!--
 ### Thursday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
