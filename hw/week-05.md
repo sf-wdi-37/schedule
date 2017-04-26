@@ -34,6 +34,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Continue the [Angular Pokemon](https://github.com/sf-wdi-37/angular-pokemon) app.  You should at least aim to complete #1 under [Expectations](https://github.com/sf-wdi-37/angular-pokemon#expectations), but the show page can be minimal (just a header is okay for now).
 
 ### Thursday
 
