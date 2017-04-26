@@ -32,10 +32,10 @@ Vagabond -> (Ruby)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | [ES6 (BV)][6-1A] |  [Todo lab (CF)][6-2A] | [React OMDB lab (CF)][6-3A] | [React CR(UD) (BV)][6-4A] | [Formative Assessment and review (CF)][6-5A]
- **11:00am <br> 12:30pm** | [React Intro (BV)][6-1B] | [Todo lab (CF)][6-2B] |  [React OMDB lab (CF)][6-3B] | [React CR(UD) (BV)][6-4B] | [Review (CF)][6-5B]
- **1:30pm <br> 3:00pm** | [React Intro Ctn'd (CF)][6-1C] |  [Todo lab (BV)][6-2C] |  [Outcomes (NJ)][6-3C] | [React (CR)UD (CF)][6-4C] | [Wayfarer Intro (BV)][6-5C]
-**3:15pm <br> 4:30pm** | [ATM lab (CF)][6-1D] | [Todo lab (BV)][6-2D] |  [React OMDB lab][6-3D] | [React (CR)UD (CF)][6-4D] | [Wayfarer (BV)][6-5D]
+ **9:15am <br> 10:45am** | [ES6 (BV)][6-1A] |  [Todo lab (CF)][6-2A] | [React OMDB lab (CF)][6-3A] | [React (CR)UD (BV)][6-4A] | [Formative Assessment and review (CF)][6-5A]
+ **11:00am <br> 12:30pm** | [React Intro (BV)][6-1B] | [Todo lab (CF)][6-2B] |  [React OMDB lab (CF)][6-3B] | [React (CR)UD (BV)][6-4B] | [Review (CF)][6-5B]
+ **1:30pm <br> 3:00pm** | [React Intro Ctn'd (CF)][6-1C] |  [Todo lab (BV)][6-2C] |  [Outcomes (NJ)][6-3C] | [React CR(UD) (CF)][6-4C] | [Wayfarer Intro (BV)][6-5C]
+**3:15pm <br> 4:30pm** | [ATM lab (CF)][6-1D] | [Todo lab (BV)][6-2D] |  [React OMDB lab][6-3D] | [React CR(UD) (CF)][6-4D] | [Wayfarer (BV)][6-5D]
 **Evening** | [Training][6-1E] |  [Training][6-2E] |  [Training][6-3E] | [Training][6-4E] | [Wayfarer][6-5E]
 
 [6-1A]: https://github.com/SF-WDI-LABS/es6 "..."
