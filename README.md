@@ -35,7 +35,7 @@ React
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | [Angular Intro][5-1A] & [Directives][5-1A2] Resources (BV) |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Wrapup (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
+ **9:15am <br> 10:45am** | [Angular Intro][5-1A] & [Directives][5-1A2] Resources (BV) |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Sprint 5 (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
  **11:00am <br> 12:30pm** | Outcomes (NJ) | [`$http` Create and Read (BV)][5-2B] |  [Tunely Angular Sprint 4 (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
  **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Tunely Angular Sprint 4][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
 **3:15pm <br> 4:30pm** | [Tunely Angular Sprint 1][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Pokemon Front-End App][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
@@ -60,8 +60,8 @@ React
 [5-3D]: https://github.com/sf-wdi-37/angular-pokemon "..."
 [5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW"
 
-[5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
-[5-4B]: # "..."
+[5-4A]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint5.md"
+[5-4B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint5.md"
 [5-4C]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
 [5-4D]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
 [5-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#thursday "Thursday HW"
