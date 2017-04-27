@@ -62,8 +62,8 @@ React
 
 [5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
 [5-4B]: # "..."
-[5-4C]: # "..."
-[5-4D]: # "https://github.com/sf-wdi-37/ng-update-delete"
+[5-4C]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
+[5-4D]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
 [5-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#thursday "Thursday HW"
 
 
