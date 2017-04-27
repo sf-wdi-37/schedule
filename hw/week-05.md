@@ -42,12 +42,13 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Angular Pokemon Lab
 
+1. Complete the Cards Against Assembly App.
 
-1. Continue the [Angular Pokemon](https://github.com/sf-wdi-37/angular-pokemon) app.  Complete #2 under [Expectations](https://github.com/sf-wdi-37/angular-pokemon#expectations), which involves showing a single pokemon on a show page and deleting or editing single pokemon data. 
+2. Continue the [Angular Pokemon](https://github.com/sf-wdi-37/angular-pokemon) app.  Complete #2 under [Expectations](https://github.com/sf-wdi-37/angular-pokemon#expectations), which involves showing a single pokemon on a show page and deleting or editing single pokemon data. 
 
-2. For review, list any apps that you wanted to deploy to Heroku but haven't been able to or are blocked on.
+3. For review, list any apps that you wanted to deploy to Heroku but haven't been able to or are blocked on.
 
-3. Also for review, write down three questions and bring them with you. Be prepared to discuss these with your colleagues!
+4. Also for review, write down three questions and bring them with you. Be prepared to discuss these with your colleagues!
 
 
 <!--
