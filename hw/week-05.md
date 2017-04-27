@@ -38,11 +38,19 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 2. Go back through Tunely Angular sprints 1-4 and write or diagram the main goal of each sprint as well as how you completed it. Include at least 3 specific steps per sprint and which files you changed. Review solutions for any parts of Tunely Angular sprint 1-4 that were particularly confusing for you. 
 
-<!--
 ### Thursday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Angular Pokemon Lab
 
+
+1. Continue the [Angular Pokemon](https://github.com/sf-wdi-37/angular-pokemon) app.  Complete #2 under [Expectations](https://github.com/sf-wdi-37/angular-pokemon#expectations), which involves showing, deleting, and editing single pokemon data. 
+
+2. For review, list any apps that you wanted to deploy to Heroku but haven't been able to or are blocked on.
+
+3. Also for review, write down three questions and bring them with you. Be prepared to discuss these with your colleagues!
+
+
+<!--
 
 ### Weekend
 
