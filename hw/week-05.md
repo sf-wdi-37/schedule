@@ -51,12 +51,11 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 4. Also for review, write down three questions and bring them with you. Be prepared to discuss these with your colleagues!
 
 
-<!--
 
 ### Weekend
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
-1. Use Wednesday's Pokémon lab as inspiration to build a new Angular CRUD application from scratch. Instead of CRUDing Pokémon, your resource will be books, which can also be accessed at the [super CRUD API](https://super-crud.herokuapp.com/books).
+1. Use Wednesday's Pokémon lab as inspiration to build a new Angular CRUD application from scratch. Instead of CRUDing Pokémon, your resource will be books, which can also be accessed at the [super CRUD API](https://super-crud.herokuapp.com/books). Or try wines!
 
--->
+
