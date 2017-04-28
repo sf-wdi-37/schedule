@@ -37,7 +37,7 @@ React
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | [Angular Intro][5-1A] & [Directives][5-1A2] Resources (BV) |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Sprint 5 (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
  **11:00am <br> 12:30pm** | Outcomes (NJ) | [`$http` Create and Read (BV)][5-2B] |  [Tunely Angular Sprint 4 (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
- **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Tunely Angular Sprint 4][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
+ **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Tunely Angular Sprint 4][5-3C] | [Custom Directives (CF)][5-4C] | [Data Science Meet & Greet (Emily, Wen, BV)][5-5C]
 **3:15pm <br> 4:30pm** | [Tunely Angular Sprint 1][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Pokemon Front-End App][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
 **Evening** | [Training Tasks][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
 
@@ -70,7 +70,7 @@ React
 [5-5A]: # "https://github.com/sf-wdi-37/angular-routing"
 [5-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
 [5-5C]: # "..."
-[5-5D]: # "https://github.com/sf-wdi-37/angular-books-crud-lab"
+[5-5D]: # "https://github.com/sf-wdi-37/angular-weekend-crud"
 [5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
