@@ -56,6 +56,8 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
-1. Use Wednesday's Pokémon lab as inspiration to build a new Angular CRUD application from scratch. Instead of CRUDing Pokémon, your resource will be books, which can also be accessed at the [super CRUD API](https://super-crud.herokuapp.com/books). Or try wines!
+1. Spend up to one more hour on the [Angular Pokemon](https://github.com/sf-wdi-37/angular-pokemon) lab, commit your code, and then carefully read and understand the code on the solutions branch. 
+
+2. Use the Pokémon lab as inspiration to build a new Angular CRUD application from scratch. Instead of CRUDing Pokémon, your resource will be books, which can also be accessed at the [super CRUD API](https://super-crud.herokuapp.com/books). Or try wines!
 
 
