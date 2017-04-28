@@ -70,7 +70,7 @@ React
 [5-5A]: # "https://github.com/sf-wdi-37/angular-routing"
 [5-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
 [5-5C]: # "..."
-[5-5D]: # "https://github.com/sf-wdi-37/angular-weekend-crud"
+[5-5D]: https://github.com/sf-wdi-37/angular-weekend-crud "https://github.com/sf-wdi-37/angular-weekend-crud"
 [5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
