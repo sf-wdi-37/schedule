@@ -7,8 +7,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your book or wine Angular app repo
 
+1. Work on the [ATM Lab](https://github.com/sf-wdi-37/atm-react). Use the hints and provided code if you get stuck. Also, feel free to reference the solution branch. 
 
 
 ### Tuesday
