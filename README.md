@@ -24,11 +24,103 @@ Ruby -> Rails
 
 ###Week 7 - "Collaboration"
 Vagabond -> (Ruby)
-
-###Week 6 - "React"
-React
-
 -->
+
+
+
+### Week 6 - React
+
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [ES6 (BV)][6-1A] |  [Todo lab (CF)][6-2A] | [React OMDB lab (CF)][6-3A] | [React (CR)UD (BV)][6-4A] | [Formative Assessment and review (CF)][6-5A]
+ **11:00am <br> 12:30pm** | [React Intro (BV)][6-1B] | [Todo lab (CF)][6-2B] |  [React OMDB lab (CF)][6-3B] | [React (CR)UD (BV)][6-4B] | [Review (CF)][6-5B]
+ **1:30pm <br> 3:00pm** | [React Intro Ctn'd (CF)][6-1C] |  [Todo lab (BV)][6-2C] |  [Outcomes (NJ)][6-3C] | [React CR(UD) (CF)][6-4C] | [Wayfarer Intro (BV)][6-5C]
+**3:15pm <br> 4:30pm** | [ATM lab (CF)][6-1D] | [Todo lab (BV)][6-2D] |  [React OMDB lab][6-3D] | [React CR(UD) (CF)][6-4D] | [Wayfarer (BV)][6-5D]
+**Evening** | [Training][6-1E] |  [Training][6-2E] |  [Training][6-3E] | [Training][6-4E] | [Wayfarer][6-5E]
+
+[6-1A]: https://github.com/SF-WDI-LABS/es6 "..."
+[6-1B]: https://github.com/SF-WDI-LABS/react-intro "..."
+[6-1C]: https://github.com/SF-WDI-LABS/react-intro-2 "..."
+[6-1D]: https://github.com/SF-WDI-LABS/atm-react "..."
+[6-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#monday "Monday hw"
+
+[6-2A]: https://github.com/SF-WDI-LABS/react_todo_walkthrough "..."
+[6-2B]: # "..."
+[6-2C]: # "..."
+[6-2D]: # "..."
+[6-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#tuesday "Tuesday hw"
+
+[6-3A]: https://github.com/SF-WDI-LABS/react-omdb "..."
+[6-3B]: # "..."
+[6-3C]: # "..."
+[6-3D]: # "..."
+[6-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#wednesday "Wednesday HW"
+
+[6-4A]: https://github.com/SF-WDI-LABS/MERN-CRUD-Lab "..."
+[6-4B]: # "..."
+[6-4C]: # "..."
+[6-4D]: # "..."
+[6-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#thursday "Thursday HW"
+
+
+[6-5A]: # "..."
+[6-5B]: # "..."
+[6-5C]: https://github.com/sf-wdi-36/project-wayfarer "..."
+[6-5D]: # "..."
+[6-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#weekend "Weekend HW"
+
+<!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
+
+
+### Week 5 - Angular
+
+<!-- (Project 1) -> Angular -->
+
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Angular Intro (CF)][5-1A] |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Wrapup (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
+ **11:00am <br> 12:30pm** | [Angular Intro (CF)][5-1B] | [`$http` Create and Read (BV)][5-2B] |  [Client-side Routing (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
+ **1:30pm <br> 3:00pm** | [Directives & Expressions (BV)][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Outcomes (NJ)][5-3C] | [Custom Directives (CF)][5-4C] | [Review & Lab (BV)][5-5C]
+**3:15pm <br> 4:30pm** | [Directives & Expressions (BV)][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Practice][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
+**Evening** | [Training][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
+
+[5-1A]: # "bubble sort"
+[5-1B]: # "..."
+[5-1C]: # "..."
+[5-1D]: # "..."
+[5-1E]: # "..."
+[5-1F]: # "..."
+[5-1G]: # "..."
+
+[5-2A]: # "..."
+[5-2B]: # "..."
+[5-2C]: # "..."
+[5-2D]: # "..."
+[5-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Tuesday hw"
+
+[5-3A]: # "https://github.com/sf-wdi-37/intro-angular"
+[5-3B]: # "..."
+[5-3C]: # "https://github.com/sf-wdi-37/ng-hangman "
+[5-3D]: # "..."
+[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW"
+
+[5-4A]: # "https://github.com/sf-wdi-37/ng-read-create"
+[5-4B]: # "..."
+[5-4C]: # "..."
+[5-4D]: # "https://github.com/sf-wdi-37/ng-update-delete"
+[5-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#thursday "Thursday HW"
+
+
+[5-5A]: # "https://github.com/sf-wdi-37/angular-routing"
+[5-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
+[5-5C]: # "..."
+[5-5D]: # "https://github.com/sf-wdi-37/angular-books-crud-lab"
+[5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Weekend HW"
+
+<!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
+
 
 ### Week 5 - Angular
 <!-- (Project 1) -> Angular -->
