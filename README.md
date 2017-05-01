@@ -27,6 +27,7 @@ Vagabond -> (Ruby)
 -->
 
 
+
 ### Week 6 - React
 
 
@@ -120,9 +121,55 @@ Vagabond -> (Ruby)
 
 <!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
 
+
+### Week 5 - Angular
+<!-- (Project 1) -> Angular -->
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Angular Intro][5-1A] & [Directives][5-1A2] Resources (BV) |  [`$http` Create and Read (BV)][5-2A] | [Client-side Routing (BV)][5-3A] | [Tunely Angular Sprint 5 (BV)][5-4A] | [Formative Assessment and review (CF)][5-5A]
+ **11:00am <br> 12:30pm** | Outcomes (NJ) | [`$http` Create and Read (BV)][5-2B] |  [Tunely Angular Sprint 4 (BV)][5-3B] | [Tunely Angular Wrapup (BV)][5-4B] | [Review (CF)][5-5B]
+ **1:30pm <br> 3:00pm** | [Surprise][5-1C] |  [`$http` Update & Delete (CF)][5-2C] |  [Tunely Angular Sprint 4][5-3C] | [Custom Directives (CF)][5-4C] | Data Science Meet & Greet (Emily, Wen)
+**3:15pm <br> 4:30pm** | [Tunely Angular Sprint 1][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Pokemon Front-End App][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
+**Evening** | [Training Tasks][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
+
+[5-1A]: https://github.com/sf-wdi-37/intro-angular/ "angular intro" 
+[5-1A2]: https://github.com/sf-wdi-37/angular_directives_lab "angular directives & expressions"
+[5-1B]: # "Outcomes"
+[5-1C]: # "UX Collaboration"
+[5-1D]: https://github.com/sf-wdi-37/tunely-angular "tunely-angular sprint 1"
+[5-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#monday "Monday training"
+
+[5-2A]: https://github.com/sf-wdi-37/ng-read-create "angular create and read"
+[5-2B]: https://github.com/sf-wdi-37/ng-read-create "angular create and read"
+[5-2C]: https://github.com/sf-wdi-37/ng-update-delete "angular update and delete"
+[5-2D]: https://github.com/sf-wdi-37/ng-update-delete "angular update and delete"
+[5-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#tuesday "Tuesday hw"
+
+[5-3A]: https://github.com/sf-wdi-37/angular-routing "ngRoute"
+[5-3B]: https://github.com/sf-wdi-37/tunely-angular "Tunely angular sprint 4"
+[5-3C]: https://github.com/sf-wdi-37/tunely-angular "Tunely angular sprint 4"
+[5-3D]: https://github.com/sf-wdi-37/angular-pokemon "..."
+[5-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#wednesday "Wednesday HW"
+
+[5-4A]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint5.md"
+[5-4B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint5.md"
+[5-4C]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
+[5-4D]: https://github.com/SF-WDI-37/angular-custom-directives "custom directives"
+[5-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#thursday "Thursday HW"
+
+
+[5-5A]: # "https://github.com/sf-wdi-37/angular-routing"
+[5-5B]: # "https://github.com/sf-wdi-37/tunely-angular/blob/master/docs/sprint4.md"
+[5-5C]: # "..."
+[5-5D]: https://github.com/sf-wdi-37/angular-weekend-crud "https://github.com/sf-wdi-37/angular-weekend-crud"
+[5-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-05.md#weekend "Weekend HW"
+
+<!--  [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5) -->
+
+
 ### Week 4 - Full-Stack Project 1
 <!-- (Tunely) -> Project 1 -->
-
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
