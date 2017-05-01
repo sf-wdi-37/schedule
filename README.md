@@ -41,8 +41,8 @@ Vagabond -> (Ruby)
 
 [6-1A]: https://github.com/SF-WDI-37/es6 "..."
 [6-1B]: https://github.com/SF-WDI-37/react-intro "..."
-[6-1C]: https://github.com/SF-WDI-LABS/react-intro-2 "..."
-[6-1D]: https://github.com/SF-WDI-LABS/atm-react "..."
+[6-1C]: https://github.com/SF-WDI-37/react-intro-2 "..."
+[6-1D]: https://github.com/SF-WDI-37/atm-react "..."
 [6-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#monday "Monday hw"
 
 [6-2A]: # "https://github.com/SF-WDI-37/react_todo_walkthrough"
