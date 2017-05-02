@@ -14,7 +14,10 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 <!--
 ### Tuesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your ATM Lab repo
+
+
+1. Continue working through the [Todo Lab](https://github.com/sf-wdi-37/react-todo-walkthrough-jquery). Use the code provided, but do take the time to "think critically," make notes, and/or draw diagrams about what you are doing.  Set aside 2 more hours to work on the lab and at least 30 minutes to review the solutions branches and comparing that code to your work. Take notes on where your code and the solution code vary.
 
 
 ### Wednesday
