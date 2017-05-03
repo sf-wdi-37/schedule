@@ -51,8 +51,8 @@ Vagabond -> (Ruby)
 [6-2D]: https://github.com/sf-wdi-37/react-todo-walkthrough-jquery "..."
 [6-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#tuesday "Tuesday hw"
 
-[6-3A]: # "https://github.com/SF-WDI-LABS/react-omdb"
-[6-3B]: # "..."
+[6-3A]: https://github.com/SF-WDI-37/react-omdb "OMDB lab"
+[6-3B]: https://github.com/SF-WDI-37/react-omdb "..."
 [6-3C]: # "..."
 [6-3D]: # "..."
 [6-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#wednesday "Wednesday HW"
