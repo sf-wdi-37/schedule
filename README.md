@@ -24,7 +24,7 @@ Ruby -> Rails
 
 -->
 
-### Week 7 - "Collaboration"
+### Week 7 - Collaboration
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
