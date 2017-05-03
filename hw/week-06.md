@@ -21,12 +21,16 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 2. If you finish the Todo Lab before 2 hours, still invest that time in reviewing React. You can go back over any parts of the Todo Lab that made less sense to you and add comments, or start building the app again in new directory with a different super-crud resource. 
 
-<!--
+
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your todo app repository
 
+1. Continue the React OMDB lab for about 2 hours (including solution review time). Reference the solutions for the OMDB lab if you get stuck, and spend at least 15 minutes reviewing the solutions branch after you finish to compare it to your work.
+
+
+<!--
 
 ### Thursday
 
