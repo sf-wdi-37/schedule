@@ -30,12 +30,17 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 1. Continue the React OMDB lab for about 2 hours (including solution review time). Reference the solutions for the OMDB lab if you get stuck, and spend at least 15 minutes reviewing the solutions branch after you finish to compare it to your work.
 
 
-<!--
+
 
 ### Thursday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [React OMDB lab](https://github.com/sf-wdi-37/react-omdb)
 
+1. Spend one additional hour on the [MERN-CRUD lab](https://github.com/sf-wdi-37/MERN-CRUD-Lab). If you do not wrap up within the hour, spend 15-30 minutes looking at the client side of the [solution branch](https://github.com/sf-wdi-37/MERN-CRUD-Lab/tree/solution). 
+
+2. Spend 1 hour building [a GitHub gist](https://gist.github.com/) that would help guide you through the opening steps to setting up a React application.
+
+<!--
 
 ### Weekend
 
