@@ -57,8 +57,8 @@ Vagabond -> (Ruby)
 [6-3D]: # "..."
 [6-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#wednesday "Wednesday HW"
 
-[6-4A]: # "https://github.com/SF-WDI-LABS/MERN-CRUD-Lab"
-[6-4B]: # "..."
+[6-4A]: https://github.com/sf-wdi-37/MERN-CRUD-Lab "https://github.com/SF-WDI-LABS/MERN-CRUD-Lab"
+[6-4B]: https://github.com/sf-wdi-37/MERN-CRUD-Lab "..."
 [6-4C]: # "..."
 [6-4D]: # "..."
 [6-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#thursday "Thursday HW"
