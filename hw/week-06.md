@@ -36,7 +36,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [React OMDB lab](https://github.com/sf-wdi-37/react-omdb)
 
-1. Spend one additional hour on the [MERN-CRUD lab](https://github.com/sf-wdi-37/MERN-CRUD-Lab). If you do not wrap up within the hour, spend 15-30 minutes looking at the client side of the [solution branch](https://github.com/sf-wdi-37/MERN-CRUD-Lab/tree/solution). 
+1. Spend one additional hour on the [MERN-CRUD lab](https://github.com/sf-wdi-37/MERN-CRUD-Lab). Whether or not you wrap up within the hour, spend 15-30 minutes looking at the client side of the [solution branch](https://github.com/sf-wdi-37/MERN-CRUD-Lab/tree/solution). 
 
 2. Spend 1 hour building [a GitHub gist](https://gist.github.com/) that would help guide you through the opening steps to setting up a React application.
 
