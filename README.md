@@ -66,7 +66,7 @@ Vagabond -> (Ruby)
 
 [6-5A]: # "..."
 [6-5B]: # "..."
-[6-5C]: # "https://github.com/sf-wdi-36/project-wayfarer"
+[6-5C]: https://github.com/sf-wdi-37/project-wayfarer "https://github.com/sf-wdi-36/project-wayfarer"
 [6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-06.md#weekend "Weekend HW"
 
