@@ -40,11 +40,14 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 2. Spend 1 hour building [a GitHub gist](https://gist.github.com/) that would help guide you through the opening steps to setting up a React application.
 
-<!--
+
 
 ### Weekend
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your [MERN-CRUD lab](https://github.com/sf-wdi-37/MERN-CRUD-Lab) repository
+
+1. Get started on Wayfarer sprint 1. Use Trello to allocate work amongst the members of your team and make sure you have a clear understanding of how your git collaboration will work.
+
+2. Encouraged: attend the General Assembly Hackathon, [Impact Hack](https://generalassemb.ly/education/impact-hack/san-francisco/36826), hosted by our favorite IA Emily!!
 
 
--->
