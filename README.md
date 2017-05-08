@@ -34,7 +34,7 @@ Ruby -> Rails
 **3:15pm <br> 4:30pm** | [Wayfarer (BV)][7-1D] | [Wayfarer (BV)][7-2D] |  [Wayfarer][7-3D] | [Wayfarer (BV)][7-4D] | [Start Exploring Ruby (BV)][7-5D]
 **Evening** | [Training][7-1E] |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
-[7-1A]: # "..."
+[7-1A]: https://github.com/sf-wdi-37/mergesort "..."
 [7-1B]: # "..."
 [7-1C]: # "..."
 [7-1D]: # "..."
