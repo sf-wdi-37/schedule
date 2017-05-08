@@ -22,10 +22,50 @@ Rails
 ###Week 8 - "Ruby"
 Ruby -> Rails
 
-###Week 7 - "Collaboration"
-Vagabond -> (Ruby)
 -->
 
+### Week 7 - Collaboration
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Mergesort (CF)][7-1A] |  [Linked Lists (CF)][7-2A] | [Stacks (BV)][7-3A] | [Queues (BV)][7-4A] | [Wayfarer (BV)][7-5A]
+ **11:00am <br> 12:30pm** | [Wayfarer (CF)][7-1B] | [Wayfarer (CF)][7-2B] |  [Wayfarer (BV)][7-3B] | [Wayfarer (BV)][7-4B] | [Wayfarer Presentations (BV)][7-5B]
+ **1:30pm <br> 3:00pm** | [Wayfarer (BV)][7-1C] |  [Wayfarer (BV)][7-2C] |  [Outcomes (NJ)][7-3C] | [Wayfarer (BV)][7-4C] | [Wayfarer Wrap-up (BV)][7-5C]
+**3:15pm <br> 4:30pm** | [Wayfarer (BV)][7-1D] | [Wayfarer (BV)][7-2D] |  [Wayfarer][7-3D] | [Wayfarer (BV)][7-4D] | [Start Exploring Ruby (BV)][7-5D]
+**Evening** | [Training][7-1E] |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
+
+[7-1A]: # "..."
+[7-1B]: # "..."
+[7-1C]: # "..."
+[7-1D]: # "..."
+[7-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#monday "Monday hw"
+
+[7-2A]: # "..."
+[7-2B]: # "..."
+[7-2C]: # "..."
+[7-2D]: # "..."
+[7-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#tuesday "Tuesday hw"
+
+[7-3A]: # "..."
+[7-3B]: # "..."
+[7-3C]: # "..."
+[7-3D]: # "..."
+[7-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#wednesday "Wednesday HW"
+
+[7-4A]: # "..."
+[7-4B]: # "..."
+[7-4C]: # "..."
+[7-4D]: # "..."
+[7-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#thursday "Thursday HW"
+
+
+[7-5A]: # "..."
+[7-5B]: # "..."
+[7-5C]: # "..."
+[7-5D]: # "..."
+[7-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#weekend "Weekend HW"
+
+<!--  [Weekly Checklist](#) -->
 
 
 ### Week 6 - React
@@ -84,7 +124,7 @@ Vagabond -> (Ruby)
 **3:15pm <br> 4:30pm** | [Tunely Angular Sprint 1][5-1D] | [`$http` Update & Delete (CF)][5-2D] |  [Angular Pokemon Front-End App][5-3D] | [Custom Directives (CF)][5-4D] | [Review & Lab (BV)][5-5D]
 **Evening** | [Training Tasks][5-1E] |  [Training][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book/Library App][5-5E]
 
-[5-1A]: https://github.com/sf-wdi-37/intro-angular/ "angular intro" 
+[5-1A]: https://github.com/sf-wdi-37/intro-angular/ "angular intro"
 [5-1A2]: https://github.com/sf-wdi-37/angular_directives_lab "angular directives & expressions"
 [5-1B]: # "Outcomes"
 [5-1C]: # "UX Collaboration"
