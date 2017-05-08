@@ -29,8 +29,8 @@ Ruby -> Rails
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | [Mergesort (CF)][7-1A] |  [Linked Lists (CF)][7-2A] | [Stacks (BV)][7-3A] | [Queues (BV)][7-4A] | [Wayfarer (BV)][7-5A]
- **11:00am <br> 12:30pm** | [Wayfarer (CF)][7-1B] | [Wayfarer (CF)][7-2B] |  [Wayfarer (BV)][7-3B] | [Wayfarer (BV)][7-4B] | [Wayfarer Presentations (BV)][7-5B]
- **1:30pm <br> 3:00pm** | [Wayfarer (BV)][7-1C] |  [Wayfarer (BV)][7-2C] |  [Outcomes (NJ)][7-3C] | [Wayfarer (BV)][7-4C] | [Wayfarer Wrap-up (BV)][7-5C]
+ **11:00am <br> 12:30pm** | [Wayfarer (CF)][7-1B] | [Wayfarer (CF)][7-2B] |  [Wayfarer (BV)][7-3B] | [Wayfarer (BV)][7-4B] | [Wayfarer (BV)][7-5B]
+ **1:30pm <br> 3:00pm** | [Wayfarer (BV)][7-1C] |  [Wayfarer (BV)][7-2C] |  [Outcomes (NJ)][7-3C] | [Wayfarer (BV)][7-4C] | [Wayfarer Presentations & Wrap-up (BV)][7-5C]
 **3:15pm <br> 4:30pm** | [Wayfarer (BV)][7-1D] | [Wayfarer (BV)][7-2D] |  [Wayfarer][7-3D] | [Wayfarer (BV)][7-4D] | [Start Exploring Ruby (BV)][7-5D]
 **Evening** | [Training][7-1E] |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
