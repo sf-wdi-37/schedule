@@ -34,13 +34,13 @@ Ruby -> Rails
 **3:15pm <br> 4:30pm** | [Wayfarer (BV)][7-1D] | [Wayfarer (BV)][7-2D] |  [Wayfarer][7-3D] | [Wayfarer (BV)][7-4D] | [Start Exploring Ruby (BV)][7-5D]
 **Evening** | [Training][7-1E] |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
-[7-1A]: https://github.com/sf-wdi-37/mergesort "..."
+[7-1A]: https://github.com/sf-wdi-37/mergesort "Mergesort"
 [7-1B]: # "..."
 [7-1C]: # "..."
 [7-1D]: # "..."
 [7-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#monday "Monday hw"
 
-[7-2A]: # "..."
+[7-2A]: https://github.com/sf-wdi-37/linked-lists "Linked Lists"
 [7-2B]: # "..."
 [7-2C]: # "..."
 [7-2D]: # "..."
