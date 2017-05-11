@@ -52,7 +52,7 @@ Ruby -> Rails
 [7-3D]: # "..."
 [7-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#wednesday "Wednesday HW"
 
-[7-4A]: # "..."
+[7-4A]: https://github.com/sf-wdi-37/queues "queues"
 [7-4B]: # "..."
 [7-4C]: # "..."
 [7-4D]: # "..."
