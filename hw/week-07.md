@@ -34,8 +34,6 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your team's Wayfarer GitHub repository
 
 1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend about 1 hour working throug this and taking notes._
- 
-<!-- 1. Work through this [arrays, hashes, and blocks](https://github.com/sf-wdi-34/ruby-arrays-hashes) guide. Don't just read it; try the code out in PRY.  -->
 
 2. Take about 30 minutes (total) skimming through the following 3 free books on Ruby. Spend a little time really reading the table of contents (if there is one) and seeing what piques your interest. 
 
