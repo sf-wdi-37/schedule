@@ -19,10 +19,52 @@ Project 2
 ###Week 9 - "Rails"
 Rails
 
-###Week 8 - "Ruby"
-Ruby -> Rails
-
 -->
+
+
+
+### Week 8 - Ruby & Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Intro Ruby (JW)][8-1A] |  [Ruby Method Drills (CF)][8-2A] | [Rspec (CF)][8-3A] | [Ruby Review  & Formative Assessment (BV)][8-4A] | [Active Record (CF)][8-5A]
+ **11:00am <br> 12:30pm** | [Idomatic Ruby (JW)][8-1B] | [Ruby Method Drills (CF)][8-2B] |  [Rspec (CF)][8-3B] | [Ruby Review (BV)][8-4B] | [Active Record (CF)][8-5B]
+ **1:30pm <br> 3:00pm** | [Ruby Methods (BV)][8-1C] |  [Ruby OOP (BV)][8-2C] |  [Outcomes (NJ)][8-3C] | [Rails Intro (CF)][8-4C] | [Rails Views (BV)][8-5C]
+**3:15pm <br> 4:30pm** | [Ruby Methods (BV)][8-1D] | [Ruby OOP (BV)][8-2D] |  [Rspec/OOP Lab][8-3D] | [Rails Intro (CF)][8-4D] | [Rails Views (BV)][8-5D]
+**Evening** | [Training][8-1E] |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
+
+[8-1A]: # "..."
+[8-1B]: # "..."
+[8-1C]: # "..."
+[8-1D]: # "..."
+[8-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#monday "Monday hw"
+
+[8-2A]: # "..."
+[8-2B]: # "..."
+[8-2C]: # "..."
+[8-2D]: # "..."
+[8-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#tuesday "Tuesday hw"
+
+[8-3A]: # "..."
+[8-3B]: # "..."
+[8-3C]: # "..."
+[8-3D]: # "..."
+[8-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#wednesday "Wednesday HW"
+
+[8-4A]: # "..."
+[8-4B]: # "..."
+[8-4C]: # "..."
+[8-4D]: # "..."
+[8-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
+
+
+[8-5A]: # "..."
+[8-5B]: # "..."
+[8-5C]: # "..."
+[8-5D]: # "..."
+[8-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#weekend "Weekend HW"
+
+<!--  [Weekly Checklist](#) -->
 
 ### Week 7 - Collaboration
 
