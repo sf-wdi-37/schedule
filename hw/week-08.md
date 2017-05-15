@@ -22,7 +22,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 > Save some time to look over [example solutions](https://github.com/sf-wdi-37/ruby-methods/blob/master/example-solutions.md).
 
-3. Do this [OOP reading](https://github.com/sf-wdi-37/ruby-oop-reading). Write down answers to each of the [reflection questions](https://github.com/sf-wdi-37/ruby-oop-reading#reflection-questions) from the bottom of the readme, and **bring your answers in with you tomorrow.**  Tips:
+3. Work through this [OOP reading](https://github.com/sf-wdi-37/ruby-oop-reading).  It will probably take 1-2 hours. Write down answers to each of the [reflection questions](https://github.com/sf-wdi-37/ruby-oop-reading#reflection-questions) from the bottom of the readme, and **bring your answers in with you tomorrow.**  Tips:
   * If you just read through this, you're not getting the full benefit!  Instead, create a Ruby file to follow along with the code examples and run it every step or two with `ruby your_file_name.rb`.  
   * Try things out! Would it break if I do `car[color]`?  
   * If you're not feeling cars, create an entirely different class following the same examples (plants? phones? baseball players?)!  **Following along in code is a great strategy for reading docs on unfamiliar topics!**  
