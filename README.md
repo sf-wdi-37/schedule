@@ -33,8 +33,8 @@ Rails
 **3:15pm <br> 4:30pm** | [Ruby Methods (BV)][8-1D] | [Ruby OOP (BV)][8-2D] |  [Rspec/OOP Lab][8-3D] | [Rails Intro (CF)][8-4D] | [Rails Views (BV)][8-5D]
 **Evening** | [Training][8-1E] |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
 
-[8-1A]: # "..."
-[8-1B]: # "..."
+[8-1A]: https://github.com/SF-WDI-LABS/intro-ruby "Ruby Intro"
+[8-1B]: https://github.com/SF-WDI-LABS/idiomatic-ruby "Idiomatic Ruby"
 [8-1C]: # "..."
 [8-1D]: # "..."
 [8-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#monday "Monday hw"
