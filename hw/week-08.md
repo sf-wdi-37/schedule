@@ -16,7 +16,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 - Methods 1-2
 - (stretch: add Enumerable#inject 1-2)
 
-Commit after you finish each method. Push your work to your GitHub repository when you finish. 
+Practice the [strategies we brainstormed](https://github.com/sf-wdi-37/ruby-methods/blob/master/strategy.md).  Commit after you finish each method. Push your work to your GitHub repository when you finish. 
 
 3. Do this [OOP reading](https://github.com/sf-wdi-37/ruby-oop-reading). Write down answers to each of the [reflection questions](https://github.com/sf-wdi-37/ruby-oop-reading#reflection-questions) from the bottom of the readme, and **bring your answers in with you tomorrow.**  Tips:
   * If you just read through this, you're not getting the full benefit!  Instead, create a Ruby file to follow along with the code examples and run it every step or two with `ruby your_file_name.rb`.  
