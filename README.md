@@ -35,8 +35,8 @@ Rails
 
 [8-1A]: https://github.com/SF-WDI-LABS/intro-ruby "Ruby Intro"
 [8-1B]: https://github.com/SF-WDI-LABS/idiomatic-ruby "Idiomatic Ruby"
-[8-1C]: # "..."
-[8-1D]: # "..."
+[8-1C]: https://github.com/sf-wdi-37/ruby-methods "ruby methods"
+[8-1D]: https://github.com/sf-wdi-37/ruby-methods "ruby methods"
 [8-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#monday "Monday hw"
 
 [8-2A]: # "..."
