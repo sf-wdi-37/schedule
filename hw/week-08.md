@@ -29,12 +29,26 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
   * If you want to split this longer reading up a little, good break points are before "Inheritance" and before "Modules".
   
 
-
-
-<!--
+<!-- 
 ### Tuesday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+
+1. Read through the [test code from Ruby Methods Drills](https://github.com/sf-wdi-37/ruby-method-drills/tree/master/spec). Using that example, some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with basic explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.  This should take about 30 minutes. 
+
+2. Choose an item you are familiar with - like a jacket, table, backpack, etc.  Pseudocode tests for a Ruby class based on that object. Write down 5 "expect" lines for the object (or 10 if you chose a backpack). This should take about 10-20 minutes. An example might be:
+
+ ```
+ describe Backpack
+    it starts new backpacks with an empty list of contents
+      - expect a new backpack instance to have an empty array for contents
+    it has a color that doesn't change
+      - expect to be able to get the color
+      - expect not to be able to set the color (get an error, or something)
+    it has a method to let us add items one at a time
+      - expect the method to take in an item
+      - expect the method to add that item into the backpack's content array
+ ```
 
 
 ### Wednesday
