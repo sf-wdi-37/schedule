@@ -41,8 +41,8 @@ Rails
 
 [8-2A]: https://github.com/sf-wdi-37/ruby-method-drills "..."
 [8-2B]: https://github.com/sf-wdi-37/ruby-method-drills "..."
-[8-2C]: # "..."
-[8-2D]: # "..."
+[8-2C]: https://github.com/sf-wdi-37/ruby-monster-oop "ruby monster oop"
+[8-2D]: https://github.com/sf-wdi-37/ruby-monster-oop "ruby monster oop"
 [8-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#tuesday "Tuesday hw"
 
 [8-3A]: # "..."
