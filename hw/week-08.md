@@ -34,7 +34,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
-1. Finish part 1 of the [Ruby Monster OOP lab](https://github.com/sf-wdi-37/ruby-monster-oop) and look through the [solutions](https://github.com/sf-wdi-37/ruby-monster-oop/blob/master/solutions/monster.rb) for at least 10 minutes.
+1. Finish challenges 1-6 in part 1 and challenge 15 from part 2 of [Ruby Monster OOP lab](https://github.com/sf-wdi-37/ruby-monster-oop), then look through the [solutions](https://github.com/sf-wdi-37/ruby-monster-oop/blob/master/solutions/monster.rb) for at least 10 minutes. 
 
 2. Read through the [test code from Ruby Methods Drills](https://github.com/sf-wdi-37/ruby-method-drills/tree/master/spec). Using that example, some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with basic explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.  This should take about 30 minutes. 
 
