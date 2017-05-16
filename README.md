@@ -23,10 +23,10 @@ Project 2
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | [Migrations (CF)][9-1A] |  [Error Handling & Validations (CF)][9-2A] | [Auth (BV)][9-3A] | [Library App (BV)][9-4A] | [Rspec with Rails (EJ)][9-5A]
- **11:00am <br> 12:30pm** | [Migrations (CF)][9-1B] | [Error Handling & Validations (CF)][9-2B] |  [Auth (BV)][9-3B] | [Library App (BV)][9-4B] | [Rspec with Rails (EJ)][9-5B]
- **1:30pm <br> 3:00pm** | [Associations (BV)][9-1C] |  [Cookies & Sessions (BV)][9-2C] |  [Library App (no outcomes)][9-3C] | [Asset Pipeline (BV)][9-4C] | [Review & Assessment (BV)][9-5C]
-**3:15pm <br> 4:30pm** | [Associations (BV)][9-1D] | [Cookies & Sessions (BV)][9-2D] |  [Library App][9-3D] | [Asset Pipeline (BV)][9-4D] | [Review (BV)][9-5D]
+ **9:15am <br> 10:45am** | [Migrations (CF)][9-1A] |  [Error Handling & Validations (BV)][9-2A] | [Auth (CF)][9-3A] | [Library App (CF)][9-4A] | [Rspec with Rails (EJ)][9-5A]
+ **11:00am <br> 12:30pm** | [Migrations (CF)][9-1B] | [Error Handling & Validations (BV)][9-2B] |  [Auth (CF)][9-3B] | [Library App (CF)][9-4B] | [Rspec with Rails (EJ)][9-5B]
+ **1:30pm <br> 3:00pm** | [Associations (BV)][9-1C] |  [Cookies & Sessions (CF)][9-2C] |  [Library App (no outcomes)][9-3C] | [Asset Pipeline (BV)][9-4C] | [Review & Assessment (BV)][9-5C]
+**3:15pm <br> 4:30pm** | [Associations (BV)][9-1D] | [Cookies & Sessions (CF)][9-2D] |  [Library App][9-3D] | [Asset Pipeline (BV)][9-4D] | [Review (BV)][9-5D]
 **Evening** | [Training][9-1E] |  [Training][9-2E] |  [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
 
 [9-1A]: https://github.com/sf-wdi-37/mergesort "Mergesort"
