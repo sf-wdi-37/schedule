@@ -51,6 +51,8 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
       - expect the method to take in an item
       - expect the method to add that item into the backpack's content array
  ```
+ 
+ 4. Use any extra time to continue working on Ruby method drills.
 
 
 ### Wednesday
