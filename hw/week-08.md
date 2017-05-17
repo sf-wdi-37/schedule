@@ -58,12 +58,19 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Ruby OOP Monster code
+
+1. Continue working on the Go Fish lab for at least one hour. You should be able to pass ____ of the ____ tests. 
+
+2. Review the Ruby you've learned this week, and answer these questions:
+
+- What do you think are the most important things to know about Ruby before using it for web development?   
+- 
 
 
 ### Thursday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Go Fish Lab
 
 
 ### Weekend
