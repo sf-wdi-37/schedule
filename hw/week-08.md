@@ -54,20 +54,26 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
  
  4. Use any extra time to continue working on Ruby method drills.
 
-<!-- 
+
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Ruby OOP Monster code
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your [Ruby Method Drills](https://github.com/sf-wdi-37/ruby-method-drills)  repository
 
-1. Continue working on the Go Fish lab for at least one hour. You should be able to pass ____ of the ____ tests. 
+1. Continue working on the [Go Fish](https://github.com/sf-wdi-37/go-fish-card-game) lab for about **one hour**. Remember to read the test output carefully!! Reference the solutions if you get stuck.
 
-2. Review the Ruby you've learned this week, and answer these questions:
+2. Tomorrow we begin using Ruby on Rails, a Ruby framework that will help us develop web applications!  First, check out [the Rails home page](http://guides.rubyonrails.org/getting_started.html). Spend **10 minutes** reading the home page and clicking through the links in the nav bar and seeing where each goes.  
 
-- What do you think are the most important things to know about Ruby before using it for web development?   
-- 
+3. As a new Rails developer, you'll spend a lot of time with the [Rails **API** documentation](http://api.rubyonrails.org/).  Read the "Welcome to Rails" section of the documentation home page. (Hold off on Getting Started, we'll do that next! This should take around **15-30 minutes.**) Pay special attention to the following question:
+  * What's the big deal about Models, Views, and Controllers?
+  <br>
 
+4. You should also take advantage of Rails's wonderful [**Guides**](http://guides.rubyonrails.org/). Please read and follow along with chapters 1-4 of the [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). This should take about **an hour** including the steps below. Pay special attention to the following questions:
+  * What are the guiding principles of Ruby on Rails?
+  * What does the terminal command `rails new blog` do?
+  * Spend 10-15 minutes exploring the directories and files Rails creates for you! For example, what do you think `app/views/layouts/application.html.erb` is doing for the project? How about `Gemfile`?
 
+<!-- 
 ### Thursday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Go Fish Lab
