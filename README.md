@@ -45,8 +45,8 @@ Rails
 [8-2D]: https://github.com/sf-wdi-37/ruby-monster-oop "ruby monster oop"
 [8-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#tuesday "Tuesday hw"
 
-[8-3A]: # "..."
-[8-3B]: # "..."
+[8-3A]: https://github.com/sf-wdi-37/rspec "rspec"
+[8-3B]: https://github.com/sf-wdi-37/rspec "rspec"
 [8-3C]: # "..."
 [8-3D]: # "..."
 [8-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#wednesday "Wednesday HW"
