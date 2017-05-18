@@ -58,8 +58,8 @@ Rails
 [8-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
 
 
-[8-5A]: # "..."
-[8-5B]: # "..."
+[8-5A]: https://github.com/sf-wdi-37/active-record "..."
+[8-5B]: https://github.com/sf-wdi-37/active-record "..."
 [8-5C]: # "..."
 [8-5D]: # "..."
 [8-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#weekend "Weekend HW"
