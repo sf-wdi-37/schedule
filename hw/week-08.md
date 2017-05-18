@@ -89,6 +89,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 -->
 
-## Outcomes due next Wednesday
+## Outcomes Homework 
+#### Due Wednesday 5/31
 
 Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not, mix designs if they don't go well together, notice also the aesthetic that brings the design elements together. Pair of up with a UX Design student as needed for feedback and ideas towards designing your portfolio. 
