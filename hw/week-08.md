@@ -73,11 +73,14 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
   * What does the terminal command `rails new blog` do?
   * Spend 10-15 minutes exploring the directories and files Rails creates for you! For example, what do you think `app/views/layouts/application.html.erb` is doing for the project? How about `Gemfile`?
 
-<!-- 
+
 ### Thursday
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Go Fish Lab
 
+1. Work through part of the Rails getting started guide, according to [this training](https://github.com/sf-wdi-37/rails-guides-training/blob/master/README.md). Doing the whole guide would probably take **5-6 hours**. **Don't do the whole thing!** Cap yourself at 2 hours.
+
+<!--
 
 ### Weekend
 
