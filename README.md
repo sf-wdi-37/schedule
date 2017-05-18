@@ -53,8 +53,8 @@ Rails
 
 [8-4A]: # "..."
 [8-4B]: # "..."
-[8-4C]: # "..."
-[8-4D]: # "..."
+[8-4C]: https://github.com/sf-wdi-37/rails-intro "..."
+[8-4D]: https://github.com/sf-wdi-37/rails-intro "..."
 [8-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
 
 
