@@ -81,7 +81,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 1. Work through part of the Rails getting started guide, according to [this training](https://github.com/sf-wdi-37/rails-guides-training/blob/master/README.md). Doing the whole guide would probably take **5-6 hours**. **Don't do the whole thing!** Cap yourself at 2 hours.
 
 
-<!--
+
 ### Weekend
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Rails Getting Started Guide work (if you don't have a GitHub repo for your work yet, follow [GitHub's guide](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) to create one)
@@ -96,7 +96,6 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
   - 2.4 The `has_many :through` Association
   - 2.10 Self Joins
 
--->
 
 ## Outcomes Homework 
 #### Due Wednesday 5/31
