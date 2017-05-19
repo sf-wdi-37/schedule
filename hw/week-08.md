@@ -84,7 +84,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Weekend
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your Rails Getting Started Guide work
 
 1. Complete the [Rails Bog App](https://github.com/SF-WDI-LABS/rails_bog_app) four times, according to the [Workflow instructions](https://github.com/SF-WDI-LABS/rails_bog_app/blob/master/README.md#workflow). Don't forget to create a new branch for each run and start on a `first-run` branch. The weekend will be more complex if you accidentally change your `master`.  This will take a significant amount of time. Plan for at least 10 hours.
 
