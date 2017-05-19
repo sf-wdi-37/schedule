@@ -60,8 +60,8 @@ Rails
 
 [8-5A]: https://github.com/sf-wdi-37/active-record "..."
 [8-5B]: https://github.com/sf-wdi-37/active-record "..."
-[8-5C]: # "..."
-[8-5D]: # "..."
+[8-5C]: https://github.com/sf-wdi-37/rails-views-and-helpers "rails views and helpers"
+[8-5D]: https://github.com/sf-wdi-37/rails-views-helpers-training "rails views helpers refactor exercise"
 [8-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](#) -->
