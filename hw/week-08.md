@@ -86,10 +86,19 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Complete the [Rails Bog App](https://github.com/SF-WDI-LABS/rails_bog_app) four times, according to the [Workflow instructions](https://github.com/SF-WDI-LABS/rails_bog_app/blob/master/README.md#workflow). Don't forget to create a new branch for each run and start on a `first-run` branch. The weekend will be more complex if you accidentally change your `master`.  This will take a significant amount of time. Plan for at least 10 hours.
+
+2. Read chapters 1-2 of the Rails Guide on [Migrations](http://guides.rubyonrails.org/active_record_migrations.html). Write down 2 important term definitions you learned and 2 situations where you think you'll use migrations.
+
+3. Read Chapter 1 (Why Associations?) from the [Active Record Associations Rails Guide](http://guides.rubyonrails.org/association_basics.html).  Then, skim through the following sections:
+  - 2.1 The `belongs_to` Association
+  - 2.3 The `has_many` Association
+  - 2.4 The `has_many :through` Association
+  - 2.10 Self Joins
 
 -->
 
 ## Outcomes Homework 
 #### Due Wednesday 5/31
 
-Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not, mix designs if they don't go well together, notice also the aesthetic that brings the design elements together. Pair of up with a UX Design student as needed for feedback and ideas towards designing your portfolio. 
+Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not mix designs if they don't go well together, notice also the aesthetic that brings the design elements together. Pair up with a UX Design student as needed for feedback and ideas towards designing your portfolio. 
