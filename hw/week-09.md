@@ -1,4 +1,4 @@
-# Week 1
+# Week 9
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
@@ -7,9 +7,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your bog app repository (remember to update the README on the master branch as described in the [submission instructions](https://github.com/SF-WDI-LABS/rails_bog_app#submission))
 
-
+1. Work through part 1 of the [Rails Pet Lab](https://github.com/sf-wdi-37/rails-pet-lab).
 
 ### Tuesday
 
