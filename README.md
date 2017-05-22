@@ -28,8 +28,8 @@ Project 2
 **3:15pm <br> 4:30pm** | [Associations (BV)][9-1D] | [Cookies & Sessions (CF)][9-2D] |  [Library App][9-3D] | [Asset Pipeline (CF)][9-4D] | [Review (CF)][9-5D]
 **Evening** | [Training][9-1E] |  [Training][9-2E] |  [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
 
-[9-1A]: https://github.com/sf-wdi-37/mergesort "Mergesort"
-[9-1B]: # "..."
+[9-1A]: https://github.com/sf-wdi-37/migrations "Migrations"
+[9-1B]: https://github.com/sf-wdi-37/migrations "..."
 [9-1C]: # "..."
 [9-1D]: # "..."
 [9-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#monday "Monday hw"
