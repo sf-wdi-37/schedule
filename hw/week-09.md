@@ -11,6 +11,12 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 
 1. Work through part 1 of the [Rails Pet Lab](https://github.com/sf-wdi-37/rails-pet-lab).
 
+
+2. Check out the [Active Record Validations Rails guide](http://guides.rubyonrails.org/active_record_validations.html):
+
+  * Read chapter 1 closely.
+  * Skim through chapters 2 and 3. Pick two methods from chapter 2 and implement them in the pet lab. 
+
 ### Tuesday
 
 link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
