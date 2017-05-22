@@ -30,8 +30,8 @@ Project 2
 
 [9-1A]: https://github.com/sf-wdi-37/migrations "Migrations"
 [9-1B]: https://github.com/sf-wdi-37/migrations "..."
-[9-1C]: # "..."
-[9-1D]: # "..."
+[9-1C]: https://github.com/sf-wdi-37/rails-associations "..."
+[9-1D]: https://github.com/sf-wdi-37/rails-associations "..."
 [9-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#monday "Monday hw"
 
 [9-2A]: https://github.com/sf-wdi-37/linked-lists "Linked Lists"
