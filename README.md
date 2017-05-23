@@ -35,7 +35,7 @@ Project 2
 [9-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#monday "Monday hw"
 
 [9-2A]: https://github.com/sf-wdi-37/rails-validations-errors "..."
-[9-2B]: # "..."
+[9-2B]: https://github.com/sf-wdi-37/rails-validations-errors "..."
 [9-2C]: # "..."
 [9-2D]: # "..."
 [9-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#tuesday "Tuesday hw"
