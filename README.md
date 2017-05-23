@@ -36,8 +36,8 @@ Project 2
 
 [9-2A]: https://github.com/sf-wdi-37/rails-validations-errors "..."
 [9-2B]: https://github.com/sf-wdi-37/rails-pet-lab#part-v-owner--pet-validations "..."
-[9-2C]: # "..."
-[9-2D]: # "..."
+[9-2C]: https://github.com/sf-wdi-37/cookies-sessions "Cookies and sessions"
+[9-2D]: https://github.com/sf-wdi-37/cookies-sessions "Cookies and sessions"
 [9-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#tuesday "Tuesday hw"
 
 [9-3A]: https://github.com/sf-wdi-37/stacks "stacks"
