@@ -15,11 +15,14 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
   * Skim through chapters 2 and 3. Pick two methods from chapter 2 and implement them in the pet lab.
   
   
-<!--
+
 ### Tuesday
 
-link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): [your pet lab repo](https://github.com/sf-wdi-37/rails-pet-lab), link us to the branch you used last night to work on part one.
 
+1. Work on the [rails pet lab](https://github.com/sf-wdi-37/rails-pet-lab) focusing on parts 2 and 3 for at least two hours. If you have finished parts 2 and 3 within 2 hours, spend some time on the challenges from part 4. 
+
+<!--
 
 ### Wednesday
 
