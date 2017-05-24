@@ -21,11 +21,11 @@ Project 3 -> (Next Steps)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Memorial Day - No Class | Lightning Talks & Intro Project 2  | Drill | Drill | Drill
+**9:15am <br> 10:45am** | Memorial Day - No Class | [Lightning Talks][10-2A] & Intro [Project 2][10-2A2]  | [Into Trees][10-3A] | [Breadth-First][10-4A] | [Depth-First][10-5A]
 **11:00am <br> 12:30pm** | No Class | Project 2 (BV) | Project 2 (BV) | Project 2 (BV) | Project 2 (BV)
 **1:30pm <br> 3:00pm** | No Class | Project 2 (BV) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (BV)
 **3:00pm <br> 4:30pm** | No Class | Project 2 (BV) | Project 2 (BV)  | Project 2 (BV) | Project 2 (BV)
-**Evening** | See [Week 9 Weekend Training][10-1E] | [Training][10-2E]  | [Training][10-3E] | [Training][10-4E] | [Training][10-5E]
+**Evening** | See [Week 9 Weekend Training][10-1E] | [Project 2 Planning][10-2E]  | Project 2 | Project 2 | Project 2
 
 
 [10-1A]: # "..."  
@@ -35,6 +35,7 @@ Project 3 -> (Next Steps)
 [10-1E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#monday "Mon HW"
 
 [10-2A]: # "..."
+[10-2A2]: # "..."
 [10-2B]: # "..."
 [10-2C]: # "..."
 [10-2D]: # "..."
