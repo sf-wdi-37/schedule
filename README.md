@@ -21,10 +21,10 @@ Project 3 -> (Next Steps)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Memorial Day - No Class | [Drill][10-2A]  | Drill | Drill | Drill
+**9:15am <br> 10:45am** | Memorial Day - No Class | Lightning Talks & Intro Project 2  | Drill | Drill | Drill
 **11:00am <br> 12:30pm** | No Class | Project 2 (BV) | Project 2 (BV) | Project 2 (BV) | Project 2 (BV)
 **1:30pm <br> 3:00pm** | No Class | Project 2 (BV) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (BV)
-**3:00pm <br> 4:30pm** | No Class | Project 2 (BV) | [ Project 2 (BV)  | Project 2 (BV) | Project 2 (BV)
+**3:00pm <br> 4:30pm** | No Class | Project 2 (BV) | Project 2 (BV)  | Project 2 (BV) | Project 2 (BV)
 **Evening** | See [Week 9 Weekend Training][10-1E] | [Training][10-2E]  | [Training][10-3E] | [Training][10-4E] | [Training][10-5E]
 
 
