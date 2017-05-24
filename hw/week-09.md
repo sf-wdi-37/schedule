@@ -22,13 +22,23 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 
 1. Work on the [rails pet lab](https://github.com/sf-wdi-37/rails-pet-lab) focusing on parts 2 and 3 for at least two hours. If you have finished parts 2 and 3 within 2 hours, spend some time on the challenges from part 4. 
 
-<!--
 
 ### Wednesday
 
-link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): the most complete branch of your pet lab
 
+1. Complete part 1 of the [Library App](https://github.com/sf-wdi-37/public-library-app). You'll work on part 2 tomorrow morning.
 
+2. In preparation for tomorrow afternoon, read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
+
+**As you read, jot down answers to the following questions in your own words:**
+- What is fingerprinting, and why should I care?   
+- Why does the order of the files listed in the manifest matter?  
+- How should I use helper methods to include image assets in my HTML?   
+- How should I use helper methods to include image assets in my CSS?  
+- I want to use an external library that doesn't have a gem. Where should I put the library's code (what directory)?
+
+<!--
 ### Thursday
 
 link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
