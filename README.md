@@ -3,15 +3,15 @@
 
 
 <!--
-###Week 13 - "Life after WDI"
+### Week 13 - "Life after WDI"
 Outcomes
 
 
-###Week 12 - "Capstone Project 3"
+### Week 12 - "Capstone Project 3"
 Project 3 -> (Next Steps)
 -->
 
-###Week 11 - "Review/Advanced Topics"
+### Week 11 - "Review/Advanced Topics"
 (Review) -> Project 3
 
 
