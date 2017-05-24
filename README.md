@@ -40,8 +40,8 @@ Project 2
 [9-2D]: https://github.com/sf-wdi-37/cookies-sessions "Cookies and sessions"
 [9-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#tuesday "Tuesday hw"
 
-[9-3A]: https://github.com/sf-wdi-37/stacks "stacks"
-[9-3B]: # "..."
+[9-3A]: https://github.com/sf-wdi-37/rails-auth "auth"
+[9-3B]: https://github.com/sf-wdi-37/rails-auth "auth"
 [9-3C]: # "..."
 [9-3D]: # "..."
 [9-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#wednesday "Wednesday HW"
