@@ -9,11 +9,50 @@ Outcomes
 
 ###Week 12 - "Capstone Project 3"
 Project 3 -> (Next Steps)
+-->
 
 ###Week 11 - "Review/Advanced Topics"
 (Review) -> Project 3
 
--->
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:15am <br> 10:45am** | Project 2 | Lightning Talks  | Interview Prep | Interview Prep | Interview Prep
+**11:00am <br> 12:30pm** | Project 2 | Review (BV) | Project 3 (BV) | Project 3 (BV) | Project 3 (BV)
+**1:30pm <br> 3:00pm** | Finalize Project 2 | Review (BV) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
+**3:00pm <br> 4:30pm** | Project 2 Presentations | Review (BV) | Project 3 (BV)  | Project 3 (BV) | Project 3 (BV)
+**Evening** | See [Week 9 Weekend Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
+
+
+[11-1A]: # "..."  
+[11-1B]: # "..."  
+[11-1C]: # "..."  
+[11-1D]: # "..."  
+[11-1E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#monday "Mon HW"
+
+[11-2A]: # "..."
+[11-2B]: # "..."
+[11-2C]: # "..."
+[11-2D]: # "..."
+[11-2E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#tuesday "Tues HW"
+
+[11-3A]: # "..."
+[11-3B]: # "..."
+[11-3C]: # "..."
+[11-3D]: # "..."
+[11-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#wednesday "Wed HW"
+
+[11-4A]: # "..."
+[11-4B]: # "..."
+[11-4C]: # "..."
+[11-4D]: # "..."
+[11-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#thursday "Thurs HW"
+
+[11-5A]: # "..."
+[11-5B]: # "..."
+[11-5C]: # "..."
+[11-5D]: # "..."
+[11-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#weekend "Weekend HW"
 
 
 ### Week 10 - Team Project 2
