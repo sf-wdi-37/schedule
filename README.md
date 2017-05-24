@@ -42,8 +42,8 @@ Project 2
 
 [9-3A]: https://github.com/sf-wdi-37/rails-auth "auth"
 [9-3B]: https://github.com/sf-wdi-37/rails-auth "auth"
-[9-3C]: # "..."
-[9-3D]: # "..."
+[9-3C]: https://github.com/sf-wdi-37/public-library-app "Library app"
+[9-3D]: https://github.com/sf-wdi-37/public-library-app "Library app"
 [9-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#wednesday "Wednesday HW"
 
 [9-4A]: # "..."
