@@ -19,8 +19,8 @@ Project 3 -> (Next Steps)
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Project 2 | Lightning Talks  | Interview Prep | Interview Prep | Interview Prep
 **11:00am <br> 12:30pm** | Project 2 | Review (BV) | Project 3 (BV) | Project 3 (BV) | Project 3 (BV)
-**1:30pm <br> 3:00pm** | Finalize Project 2 | Review (BV) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
-**3:00pm <br> 4:30pm** | Project 2 Presentations | Review (BV) | Project 3 (BV)  | Project 3 (BV) | Project 3 (BV)
+**1:30pm <br> 3:00pm** | Project 2 Presentations | Review (BV) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
+**3:00pm <br> 4:30pm** | Project 2 Wrap up | Review (BV) | Project 3 (BV)  | Project 3 (BV) | Project 3 (BV)
 **Evening** | See [Week 9 Weekend Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
 
 
