@@ -48,8 +48,8 @@ Project 2
 
 [9-4A]: # "..."
 [9-4B]: # "..."
-[9-4C]: # "..."
-[9-4D]: # "..."
+[9-4C]: https://github.com/sf-wdi-37/rails-asset-pipeline "..."
+[9-4D]: https://github.com/sf-wdi-37/rails-asset-pipeline "..."
 [9-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#thursday "Thursday HW"
 
 
