@@ -38,11 +38,20 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 - How should I use helper methods to include image assets in my CSS?  
 - I want to use an external library that doesn't have a gem. Where should I put the library's code (what directory)?
 
+
 <!--
 ### Thursday
 
-link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your library app repo (and your driver's name, if you don't have the most up-to-date code you worked on)
 
+
+1. Work through the [asset pipeline exercises](https://github.com/sf-wdi-37/rails-asset-pipeline/blob/master/exercises.md), including the non-bonus portions of the asset pipeline poem lab and additional challenges.  When you complete the app, slack out one tip that might help others who are stuck, in the group slack channel.
+
+* When you want to precompile, consider starting a branch to try that out. You can see the effect and then switch back to your main branch.  
+
+2. Complete the non-bonus portions of the Library Application, part 2. When you complete the app, slack out one tip that might help others who are stuck, in the group slack channel.  Instructions for the authorization part have been improved, on the class copy of the repo: [updated authorization section](https://github.com/sf-wdi-37/public-library-app/blob/master/2_library_users.md#authorization).
+
+3. Review rspec by completing the `Car` class tests for part 1 of [this Rspec Racer training](https://github.com/sf-wdi-37/rspec-racer).  When you run `rspec spec/car_spec.rb`, you should see all 3 tests you filled in passing. 
 
 ### Weekend
 
@@ -56,4 +65,4 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 ## Outcomes Homework
 #### Due Wednesday 5/31
 
-Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not, mix designs if they don't go well together, notice also the aesthetic that brings the design elements together. Pair of up with a UX Design student as needed for feedback and ideas towards designing your portfolio. 
+Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not mix designs if they don't go well together; notice also the aesthetic that brings the design elements together. Pair of up with a UX Design student as needed for feedback and ideas towards designing your portfolio. 
