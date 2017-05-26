@@ -56,7 +56,7 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 <!--
 ### Weekend
 
-link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your asset pipeline poem repo and cars repo links
 
 
 1. Come up with a [project 2 pitch](https://github.com/sf-wdi-37/project-2/blob/master/lightning-pitch.md) for a Rails CRUD app that could [fulfill these technical requirements](https://github.com/sf-wdi-37/project-2#core-technical-requirements). Spend some time sketching out your idea to include the stages of progress the application could move through from skateboard, to scooter, to bicycle, etc. Remember, you will be working on this project with a 4 person group over the course of a week. Your pitch will be brief with no slides, but we want you to hit the ground running with some more detailed ideas sketched out.
