@@ -18,47 +18,87 @@ Project 2
 
 -->
 
-
 ### Week 9 - Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:15am <br> 10:45am** | Review & [Migrations (CF)][9-1A] |  [Error Handling & Validations (BV)][9-2A] | [Auth (BV)][9-3A] | [Library App (BV)][9-4A] | [Rspec with Rails (BV)][9-5A]
- **11:00am <br> 12:30pm** | [Migrations (CF)][9-1B] | [Error Handling & Validations (BV)][9-2B] |  [Auth (BV)][9-3B] | [Library App (BV)][9-4B] | [Rspec with Rails (BV)][9-5B]
+ **11:00am <br> 12:30pm** | [Migrations (CF)][9-1B] | [Pet Lab Part V (BV)][9-2B] |  [Auth (BV)][9-3B] | [Library App (BV)][9-4B] | [Rails Rspec Lab (BV)][9-5B]
  **1:30pm <br> 3:00pm** | [Associations (BV)][9-1C] |  [Cookies & Sessions (CF)][9-2C] |  [Library App (no outcomes)][9-3C] | [Asset Pipeline (CF)][9-4C] | [Review & Assessment (CF)][9-5C]
 **3:15pm <br> 4:30pm** | [Associations (BV)][9-1D] | [Cookies & Sessions (CF)][9-2D] |  [Library App][9-3D] | [Asset Pipeline (CF)][9-4D] | [Review (CF)][9-5D]
 **Evening** | [Training][9-1E] |  [Training][9-2E] |  [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
 
-[9-1A]: https://github.com/sf-wdi-37/mergesort "Mergesort"
-[9-1B]: # "..."
-[9-1C]: # "..."
-[9-1D]: # "..."
+[9-1A]: https://github.com/sf-wdi-37/migrations "Migrations"
+[9-1B]: https://github.com/sf-wdi-37/migrations "..."
+[9-1C]: https://github.com/sf-wdi-37/rails-associations "..."
+[9-1D]: https://github.com/sf-wdi-37/rails-associations "..."
 [9-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#monday "Monday hw"
 
-[9-2A]: https://github.com/sf-wdi-37/linked-lists "Linked Lists"
-[9-2B]: # "..."
-[9-2C]: https://github.com/sf-wdi-37/firebase-auth "Firebase Auth"
-[9-2D]: # "..."
+[9-2A]: https://github.com/sf-wdi-37/rails-validations-errors "..."
+[9-2B]: https://github.com/sf-wdi-37/rails-pet-lab#part-v-owner--pet-validations "..."
+[9-2C]: https://github.com/sf-wdi-37/cookies-sessions "Cookies and sessions"
+[9-2D]: https://github.com/sf-wdi-37/cookies-sessions "Cookies and sessions"
 [9-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#tuesday "Tuesday hw"
 
-[9-3A]: https://github.com/sf-wdi-37/stacks "stacks"
-[9-3B]: # "..."
-[9-3C]: # "..."
-[9-3D]: # "..."
+[9-3A]: https://github.com/sf-wdi-37/rails-auth "auth"
+[9-3B]: https://github.com/sf-wdi-37/rails-auth "auth"
+[9-3C]: https://github.com/sf-wdi-37/public-library-app "Library app"
+[9-3D]: https://github.com/sf-wdi-37/public-library-app "Library app"
 [9-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#wednesday "Wednesday HW"
 
 [9-4A]: # "..."
 [9-4B]: # "..."
-[9-4C]: # "..."
-[9-4D]: # "..."
+[9-4C]: https://github.com/sf-wdi-37/rails-asset-pipeline "..."
+[9-4D]: https://github.com/sf-wdi-37/rails-asset-pipeline "..."
 [9-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#thursday "Thursday HW"
 
 
-[9-5A]: # "..."
-[9-5B]: # "..."
+[9-5A]: https://github.com/sf-wdi-37/rspec-rails "Rails Unit Tests"
+[9-5B]: https://github.com/SF-WDI-LABS/rspec_testing_inventory "..."
 [9-5C]: # "..."
 [9-5D]: # "..."
 [9-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#weekend "Weekend HW"
+
+### Week 8 - Ruby & Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:15am <br> 10:45am** | [Intro Ruby (JW)][8-1A] |  [Ruby Method Drills (CF)][8-2A] | [Rspec (CF)][8-3A] | [Ruby Review  & Formative Assessment (BV)][8-4A] | [Active Record (CF)][8-5A]
+ **11:00am <br> 12:30pm** | [Idomatic Ruby (JW)][8-1B] | [Ruby Method Drills (CF)][8-2B] |  [Rspec (CF)][8-3B] | [Ruby Review (BV)][8-4B] | [Active Record (CF)][8-5B]
+ **1:30pm <br> 3:00pm** | [Ruby Methods (BV)][8-1C] |  [Ruby OOP (BV)][8-2C] |  Outcomes (NJ) | [Rails Intro (CF)][8-4C] | [Rails Views (BV)][8-5C]
+**3:15pm <br> 4:30pm** | [Ruby Methods (BV)][8-1D] | [Ruby OOP (BV)][8-2D] |  [:tropical_fish: Go Fish :tropical_fish: Rspec/OOP Lab][8-3D] | [Rails Intro (CF)][8-4D] | [Rails Views: Refactoring (BV)][8-5D]
+**Evening** | [Training][8-1E] |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
+
+[8-1A]: https://github.com/SF-WDI-LABS/intro-ruby "Ruby Intro"
+[8-1B]: https://github.com/SF-WDI-LABS/idiomatic-ruby "Idiomatic Ruby"
+[8-1C]: https://github.com/sf-wdi-37/ruby-methods "ruby methods"
+[8-1D]: https://github.com/sf-wdi-37/ruby-methods "ruby methods"
+[8-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#monday "Monday hw"
+
+[8-2A]: https://github.com/sf-wdi-37/ruby-method-drills "..."
+[8-2B]: https://github.com/sf-wdi-37/ruby-method-drills "..."
+[8-2C]: https://github.com/sf-wdi-37/ruby-monster-oop "ruby monster oop"
+[8-2D]: https://github.com/sf-wdi-37/ruby-monster-oop "ruby monster oop"
+[8-2E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#tuesday "Tuesday hw"
+
+[8-3A]: https://github.com/sf-wdi-37/rspec "rspec"
+[8-3B]: https://github.com/sf-wdi-37/rspec "rspec"
+[8-3C]: # "..."
+[8-3D]: https://github.com/sf-wdi-37/go-fish-card-game "Go Fish"
+[8-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#wednesday "Wednesday HW"
+
+[8-4A]: # "..."
+[8-4B]: # "..."
+[8-4C]: https://github.com/sf-wdi-37/rails-intro "..."
+[8-4D]: https://github.com/sf-wdi-37/rails-intro "..."
+[8-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
+
+
+[8-5A]: https://github.com/sf-wdi-37/active-record "..."
+[8-5B]: https://github.com/sf-wdi-37/active-record "..."
+[8-5C]: https://github.com/sf-wdi-37/rails-views-and-helpers "rails views and helpers"
+[8-5D]: https://github.com/sf-wdi-37/rails-views-helpers-training "rails views helpers refactor exercise"
+[8-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-08.md#weekend "Weekend HW"
 
 <!--  [Weekly Checklist](#) -->
 
@@ -90,7 +130,7 @@ Project 2
 [7-3D]: # "..."
 [7-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-07.md#wednesday "Wednesday HW"
 
-[7-4A]: # "..."
+[7-4A]: https://github.com/sf-wdi-37/queues "queues"
 [7-4B]: # "..."
 [7-4C]: # "..."
 [7-4D]: # "..."
