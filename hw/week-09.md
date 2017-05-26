@@ -53,7 +53,6 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 
 3. Review rspec by completing the `Car` class tests for part 1 of [this Rspec Racer training](https://github.com/sf-wdi-37/rspec-racer).  When you run `rspec spec/car_spec.rb`, you should see all 3 tests you filled in passing. 
 
-<!--
 ### Weekend
 
 link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your asset pipeline poem repo and cars repo links
@@ -62,7 +61,7 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 1. Come up with a [project 2 pitch](https://github.com/sf-wdi-37/project-2/blob/master/lightning-pitch.md) for a Rails CRUD app that could [fulfill these technical requirements](https://github.com/sf-wdi-37/project-2#core-technical-requirements). Spend some time sketching out your idea to include the stages of progress the application could move through from skateboard, to scooter, to bicycle, etc. Remember, you will be working on this project with a 4 person group over the course of a week. Your pitch will be brief with no slides, but we want you to hit the ground running with some more detailed ideas sketched out.
 
 2. Prepare a [technical lightning talk](https://github.com/sf-wdi-37/ruby-lightning-talks) on a Ruby gem of your choice. 
--->
+
 
 
 
