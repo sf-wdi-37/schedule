@@ -52,12 +52,16 @@ link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQL
 2. Complete the non-bonus portions of the Library Application, part 2. When you complete the app, slack out one tip that might help others who are stuck, in the group slack channel.  Instructions for the authorization part have been improved, on the class copy of the repo: [updated authorization section](https://github.com/sf-wdi-37/public-library-app/blob/master/2_library_users.md#authorization).
 
 3. Review rspec by completing the `Car` class tests for part 1 of [this Rspec Racer training](https://github.com/sf-wdi-37/rspec-racer).  When you run `rspec spec/car_spec.rb`, you should see all 3 tests you filled in passing. 
+
 <!--
 ### Weekend
 
 link to submit [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
 
+1. Come up with a [project 2 pitch](https://github.com/sf-wdi-37/project-2/blob/master/lightning-pitch.md) for a Rails CRUD app that could [fulfill these technical requirements](https://github.com/sf-wdi-37/project-2#core-technical-requirements). Spend some time sketching out your idea to include the stages of progress the application could move through from skateboard, to scooter, to bicycle, etc. Remember, you will be working on this project with a 4 person group over the course of a week. Your pitch will be brief with no slides, but we want you to hit the ground running with some more detailed ideas sketched out.
+
+2. Prepare a [technical lightning talk](https://github.com/sf-wdi-37/ruby-lightning-talks) on a Ruby gem of your choice. 
 -->
 
 
