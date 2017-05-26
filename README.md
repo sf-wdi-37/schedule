@@ -32,7 +32,7 @@ Project 3 -> (Next Steps)
 [10-1B]: # "..."  
 [10-1C]: # "..."  
 [10-1D]: # "..."  
-[10-1E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#monday "Mon HW"
+[10-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#weekend "Week 9 Weekend HW"
 
 [10-2A]: # "..."
 [10-2A2]: # "..."
