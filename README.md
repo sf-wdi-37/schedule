@@ -22,9 +22,9 @@ Project 3 -> (Next Steps)
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Memorial Day - No Class | [Lightning Talks][10-2A] & [Project 2 Pitches][10-2A2] (BV)  | [Into Trees][10-3A] (CF) | [Breadth-First][10-4A] (CF) | [Depth-First][10-5A] (BV)
-**11:00am <br> 12:30pm** | No Class | Project 2 Start (BV) | Project 2 (CF) | Project 2 (CF) | Project 2 (BV)
+**11:00am <br> 12:30pm** | No Class | [Project 2][10-2B] Start (BV) | Project 2 (CF) | Project 2 (CF) | Project 2 (BV)
 **1:30pm <br> 3:00pm** | No Class | Project 2 Approvals (CF) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (JW)
-**3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2 (BV)  | Project 2 (BV) | Project 2 (JW)
+**3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2  | Project 2 (BV) | Project 2 (JW)
 **Evening** | See [Week 9 Weekend Training][10-1E] | Project 2   | Project 2 | Project 2 | Project 2
 
 
@@ -34,9 +34,9 @@ Project 3 -> (Next Steps)
 [10-1D]: # "..."  
 [10-1E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-09.md#weekend "Week 9 Weekend HW"
 
-[10-2A]: # "..."
-[10-2A2]: # "..."
-[10-2B]: # "..."
+[10-2A]: https://github.com/sf-wdi-37/ruby-lightning-talks "Ruby gem lightning talks"
+[10-2A2]: https://github.com/sf-wdi-37/project-2/blob/master/lightning-pitch.md "Project 2 pitches"
+[10-2B]: https://github.com/sf-wdi-37/project-2 "Project 2"
 [10-2C]: # "..."
 [10-2D]: # "..."
 [10-2E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#tuesday "Tues HW"
