@@ -1,6 +1,12 @@
-# Week 1
+# Week 10
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
+
+
+
+### Monday
+
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): your lightning talk gist
 
 
 
@@ -10,11 +16,6 @@ The evening trainings and readings below will help you solidify work so far and/
 
 Research 3-5 websites you like and note the design **AND BRAND** for ideas towards your portfolios. Do not, mix designs if they don't go well together, notice also the aesthetic that brings the design elements together. Pair of up with a UX Design student as needed for feedback and ideas towards designing your portfolio.
 <!--
-
-
-### Monday
-
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
 
 
