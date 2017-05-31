@@ -30,6 +30,8 @@ Research 3-5 websites you like and note the design **AND BRAND** for ideas towar
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+fill in the midweek checkin form 
+
 
 ### Weekend
 
