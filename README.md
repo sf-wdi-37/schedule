@@ -25,7 +25,7 @@ Project 3 -> (Next Steps)
 **11:00am <br> 12:30pm** | No Class | [Project 2][10-2B] Start (BV) | Project 2 (CF) | Project 2 (CF) | Project 2 (BV)
 **1:30pm <br> 3:00pm** | No Class | Project 2 Approvals (CF) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (JW)
 **3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2  | Project 2 (BV) | Project 2 (JW)
-**Evening** | See [Week 9 Weekend Training][10-1E] | Project 2   & [Submit Lightning Talk Gist][10-2E] | Project 2 | Project 2 | Project 2
+**Evening** | See [Week 9 Weekend Training][10-1E] | Project 2 & [Submit Lightning Talk Gist][10-2E] | Project 2 & [Submit Repo Link][10-3E] | Project 2 | Project 2
 
 
 [10-1A]: # "..."  
