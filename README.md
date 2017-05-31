@@ -41,7 +41,7 @@ Project 3 -> (Next Steps)
 [10-2D]: # "..."
 [10-2E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#tuesday "Tues HW"
 
-[10-3A]: # "..."
+[10-3A]: https://github.com/sf-wdi-37/trees "Trees"
 [10-3B]: # "..."
 [10-3C]: # "..."
 [10-3D]: # "..."
