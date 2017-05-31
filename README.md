@@ -11,17 +11,16 @@ Outcomes
 Project 3 -> (Next Steps)
 -->
 
-### Week 11 - "Review/Advanced Topics"
-(Review) -> Project 3
+### Week 11 - Review/Advanced Topics
 
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Project 2 | Lightning Talks  | Interview Prep | Interview Prep | Interview Prep
-**11:00am <br> 12:30pm** | Project 2 | Review (BV) | Project 3 (BV) | Project 3 (BV) | Project 3 (BV)
-**1:30pm <br> 3:00pm** | Project 2 Presentations | Review (BV) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
-**3:00pm <br> 4:30pm** | Project 2 Wrap up | Review (BV) | Project 3 (BV)  | Project 3 (BV) | Project 3 (BV)
-**Evening** | See [Week 9 Weekend Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
+**9:15am <br> 10:45am** | Project 2 (BV) | Lightning Talks & MEN Review (BV)  | Interview Prep (CF) | Interview Prep (CF) | Interview Prep (BV)
+**11:00am <br> 12:30pm** | Project 2 (BV) | MEN Review (BV) | Project 3 (CF) | Project 3 (CF) | Project 3 (BV)
+**1:30pm <br> 3:00pm** | Project 2 Presentations (CF) | MEAN Review (CF) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (JW)
+**3:00pm <br> 4:30pm** | Project 2 Wrap up (CF) | MEAN Review (CF) | Project 3   | Project 3 (BV) | Project 3 (JW)
+**Evening** | See [Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
 
 
 [11-1A]: # "..."  
