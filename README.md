@@ -16,10 +16,10 @@ Project 3 -> (Next Steps)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Project 2 (BV) | Lightning Talks & MEN Review (BV)  | Interview Prep (CF) | Interview Prep (CF) | Interview Prep (BV)
-**11:00am <br> 12:30pm** | Project 2 (BV) | MEN Review (BV) | Project 3 (CF) | Project 3 (CF) | Project 3 (BV)
-**1:30pm <br> 3:00pm** | Project 2 Presentations (CF) | MEAN Review (CF) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (JW)
-**3:00pm <br> 4:30pm** | Project 2 Wrap up (CF) | MEAN Review (CF) | Project 3   | Project 3 (BV) | Project 3 (JW)
+**9:15am <br> 10:45am** | Project 2 (BV) | Lightning Talks & MEN Review (BV)  | Interview Prep (CF) | Interview Prep (CF) | Interview Prep (JW)
+**11:00am <br> 12:30pm** | Project 2 (BV) | MEN Review (BV) | Project 3 (CF) | Project 3 (CF) | Project 3 (JW)
+**1:30pm <br> 3:00pm** | Project 2 Presentations (CF) | MEAN Review (CF) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
+**3:00pm <br> 4:30pm** | Project 2 Wrap up (CF) | MEAN Review (CF) | Project 3   | Project 3 (BV) | Project 3 (BV)
 **Evening** | See [Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
 
 
