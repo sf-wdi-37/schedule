@@ -21,7 +21,7 @@ Project 3 -> (Next Steps)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Memorial Day - No Class | [Lightning Talks][10-2A] & [Project 2 Pitches][10-2A2] (BV)  | [Into Trees][10-3A] (CF) | [Breadth-First][10-4A] (CF) | [Depth-First][10-5A] (BV)
+**9:15am <br> 10:45am** | Memorial Day - No Class | [Lightning Talks][10-2A] & [Project 2 Pitches][10-2A2] (BV)  | [Into Trees][10-3A] (CF) | [Breadth-First Search][10-4A] (CF) | [Depth-First Search][10-5A] (BV)
 **11:00am <br> 12:30pm** | No Class | [Project 2][10-2B] Start (BV) | Project 2 (CF) | Project 2 (CF) | Project 2 (BV)
 **1:30pm <br> 3:00pm** | No Class | Project 2 Approvals (CF) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (JW)
 **3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2  | Project 2 (BV) | Project 2 (JW)
@@ -47,7 +47,7 @@ Project 3 -> (Next Steps)
 [10-3D]: # "..."
 [10-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#wednesday "Wed HW"
 
-[10-4A]: # "..."
+[10-4A]: https://github.com/sf-wdi-37/breadth-first-search "BFS"
 [10-4B]: # "..."
 [10-4C]: # "..."
 [10-4D]: # "..."
