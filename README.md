@@ -53,7 +53,7 @@ Project 3 -> (Next Steps)
 [10-4D]: # "..."
 [10-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-10.md#thursday "Thurs HW"
 
-[10-5A]: # "..."
+[10-5A]: https://github.com/sf-wdi-37/depth-first-search "Depth First Search"
 [10-5B]: # "..."
 [10-5C]: # "..."
 [10-5D]: # "..."
