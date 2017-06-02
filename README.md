@@ -61,8 +61,8 @@ Project 3 -> (Next Steps)
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Memorial Day - No Class | [Lightning Talks][10-2A] & [Project 2 Pitches][10-2A2] (BV)  | [Into Trees][10-3A] (CF) | [Breadth-First Search][10-4A] (CF) | [Depth-First Search][10-5A] (BV)
 **11:00am <br> 12:30pm** | No Class | [Project 2][10-2B] Start (BV) | Project 2 (CF) | Project 2 (CF) | Project 2 (BV)
-**1:30pm <br> 3:00pm** | No Class | Project 2 Approvals (CF) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (JW)
-**3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2  | Project 2 (BV) | Project 2 (JW)
+**1:30pm <br> 3:00pm** | No Class | Project 2 Approvals (CF) | Outcomes (NJ)  | Project 2 (BV) | Project 2 (Ben Manning)
+**3:00pm <br> 4:30pm** | No Class | Project 2 Approvals (CF) | Project 2  | Project 2 (BV) | Project 2 (Ben Manning)
 **Evening** | See [Week 9 Weekend Training][10-1E] | Project 2 & [Submit Lightning Talk Gist][10-2E] | Project 2 & [Submit Repo Link][10-3E] | Project 2 | Project 2
 
 
@@ -145,8 +145,8 @@ Project 3 -> (Next Steps)
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:15am <br> 10:45am** | [Intro Ruby (JW)][8-1A] |  [Ruby Method Drills (CF)][8-2A] | [Rspec (CF)][8-3A] | [Ruby Review  & Formative Assessment (BV)][8-4A] | [Active Record (CF)][8-5A]
- **11:00am <br> 12:30pm** | [Idomatic Ruby (JW)][8-1B] | [Ruby Method Drills (CF)][8-2B] |  [Rspec (CF)][8-3B] | [Ruby Review (BV)][8-4B] | [Active Record (CF)][8-5B]
+ **9:15am <br> 10:45am** | [Intro Ruby (Jean Weatherwax)][8-1A] |  [Ruby Method Drills (CF)][8-2A] | [Rspec (CF)][8-3A] | [Ruby Review  & Formative Assessment (BV)][8-4A] | [Active Record (CF)][8-5A]
+ **11:00am <br> 12:30pm** | [Idomatic Ruby (Jean Weatherwax)][8-1B] | [Ruby Method Drills (CF)][8-2B] |  [Rspec (CF)][8-3B] | [Ruby Review (BV)][8-4B] | [Active Record (CF)][8-5B]
  **1:30pm <br> 3:00pm** | [Ruby Methods (BV)][8-1C] |  [Ruby OOP (BV)][8-2C] |  Outcomes (NJ) | [Rails Intro (CF)][8-4C] | [Rails Views (BV)][8-5C]
 **3:15pm <br> 4:30pm** | [Ruby Methods (BV)][8-1D] | [Ruby OOP (BV)][8-2D] |  [:tropical_fish: Go Fish :tropical_fish: Rspec/OOP Lab][8-3D] | [Rails Intro (CF)][8-4D] | [Rails Views: Refactoring (BV)][8-5D]
 **Evening** | [Training][8-1E] |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
