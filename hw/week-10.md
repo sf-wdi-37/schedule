@@ -34,6 +34,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Continue work on your group project!
 
+<!--
 ## Outcomes Homework
 #### Due Wednesday 6/7
-
+-->
