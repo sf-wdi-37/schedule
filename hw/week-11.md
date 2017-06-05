@@ -15,7 +15,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none, but in the "anything to add?" section, please list your two takeaways from your peer feedback.
 
 1. Submit your project links on the [Project 2 tab on the bottom of this doc](https://docs.google.com/spreadsheets/d/1VUWa61eMVOE0WTUIqfzTX1-6KJhm4YecA7hXg41BP2Y/edit#gid=1787593973)!
 
