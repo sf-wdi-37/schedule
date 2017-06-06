@@ -29,6 +29,14 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
 
+1. Read through [project 3](https://github.com/sf-wdi-37/project-03/) requirements thoroughly.  Come up with one primary idea you'd like to work on, and prepare a pitch (see next step).  Also list 1-2 additional ideas that you would be interested in, in case the original idea isn't feasible.
+
+2. Prepare a "pitch" to get constructive feedback on. Your pitch should be no longer than 3 minutes and should include:
+
+- idea and motivation: What problem does the project solve? Who is the user?
+- tech stack: What main technologies do you plan to use for your client, server, and database?
+- additional challenges: External API? Model relationships? Best-looking site you've ever built? Tell us about a challenge you anticipate in your project plan.
+
 
 ### Wednesday
 
