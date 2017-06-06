@@ -23,7 +23,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 3. Review MEN and MEAN stack materials and come tomorrow with any questions about those stacks. 
 
-<!--
+
 
 ### Tuesday
 
@@ -37,6 +37,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 - tech stack: What main technologies do you plan to use for your client, server, and database?
 - additional challenges: External API? Model relationships? Best-looking site you've ever built? Tell us about a challenge you anticipate in your project plan.
 
+<!--
 
 ### Wednesday
 
