@@ -18,7 +18,7 @@ Project 3 -> (Next Steps)
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Project 2 (BV) | Lightning Talks & [MEN Review](https://github.com/sf-wdi-37/MEN-review) (BV)  | Interview Prep (CF) | Interview Prep (CF) | Interview Prep (JW)
 **11:00am <br> 12:30pm** | Project 2 (BV) | MEN Review [Microblog](https://github.com/sf-wdi-37/express-microblog) (BV) | Project 3 (CF) | Project 3 (CF) | Project 3 (JW)
-**1:30pm <br> 3:00pm** | Project 2 Presentations (CF) | MEAN Review (CF) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
+**1:30pm <br> 3:00pm** | Project 2 Presentations (CF) | [MEAN Review][11-2C] (CF) | Outcomes (NJ)  | Project 3 (BV) | Project 3 (BV)
 **3:00pm <br> 4:30pm** | Project 2 Wrap up (CF) | MEAN Review (CF) | Project 3   | Project 3 (BV) | Project 3 (BV)
 **Evening** | See [Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
 
@@ -31,7 +31,7 @@ Project 3 -> (Next Steps)
 
 [11-2A]: # "..."
 [11-2B]: # "..."
-[11-2C]: # "..."
+[11-2C]: https://github.com/sf-wdi-37/MEAN-review "..."
 [11-2D]: # "..."
 [11-2E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-11.md#tuesday "Tues HW"
 
