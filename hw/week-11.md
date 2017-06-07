@@ -37,7 +37,6 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 - tech stack: What main technologies do you plan to use for your client, server, and database?
 - additional challenges: External API? Model relationships? Best-looking site you've ever built? Tell us about a challenge you anticipate in your project plan.
 
-<!--
 
 ### Wednesday
 
@@ -45,6 +44,7 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Complete the [Project 3 planning deliverables](https://github.com/sf-wdi-37/project-03#planning--deliverables) and prepare to walk your teaching team through them tomorrow!
 
+<!--
 
 
 
