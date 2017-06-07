@@ -41,7 +41,11 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 ### Wednesday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): a link to your project 3 Trello board
+
+1. Complete the [Project 3 planning deliverables](https://github.com/sf-wdi-37/project-03#planning--deliverables) and prepare to walk your teaching team through them tomorrow!
+
+
 
 
 ### Thursday
