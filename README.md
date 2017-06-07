@@ -6,10 +6,50 @@
 ### Week 13 - "Life after WDI"
 Outcomes
 
+-->
 
 ### Week 12 - "Capstone Project 3"
 Project 3 -> (Next Steps)
--->
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:15am <br> 10:45am** | Interview Prep () | Interview Prep ()  | Interview Prep () | Project 3 () | Wrapup ()
+**11:00am <br> 12:30pm** | Project 3 (BV) | Project 3 () | Project 3 () | Project 3 () | Project 3 ()
+**1:30pm <br> 3:00pm** | Project 3 () | Project 3 () | Outcomes (NJ)  | Project 3 Presentations | Wrap up and celebrations ()
+**3:00pm <br> 4:30pm** | Project 3 () | Project 3 () | Project 3 () | Project 3 Presentations () | Wrap up ()
+**Evening** | [Training][12-1E] | [Training][12-2E]  | [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
+
+
+[12-1A]: # "..."  
+[12-1B]: # "..."  
+[12-1C]: # "..."  
+[12-1D]: # "..."  
+[12-1E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#monday "Mon HW"
+
+[12-2A]: # "..."
+[12-2B]: # "..."
+[12-2C]: # "..."
+[12-2D]: # "..."
+[12-2E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#tuesday "Tues HW"
+
+[12-3A]: # "..."
+[12-3B]: # "..."
+[12-3C]: # "..."
+[12-3D]: # "..."
+[12-3E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#wednesday "Wed HW"
+
+[12-4A]: # "..."
+[12-4B]: # "..."
+[12-4C]: # "..."
+[12-4D]: # "..."
+[12-4E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#thursday "Thurs HW"
+
+[12-5A]: # "..."
+[12-5B]: # "..."
+[12-5C]: # "..."
+[12-5D]: # "..."
+[12-5E]: https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#weekend "Weekend HW"
+
 
 ### Week 11 - Review/Advanced Topics
 
