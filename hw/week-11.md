@@ -44,18 +44,23 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 
 1. Complete the [Project 3 planning deliverables](https://github.com/sf-wdi-37/project-03#planning--deliverables) and prepare to walk your teaching team through them tomorrow!
 
-<!--
-
 
 
 ### Thursday
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none, but **let us know how you're doing**
 
+1. Continue working on [Project 3](https://github.com/sf-wdi-37/project-03).
 
 ### Weekend
 
-link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none
+link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAIpQLScicQdZtf2JLFw4O-u618YhNeaJ7sJXVN36ybzO7pnaV359QA/viewform?usp=sf_link): none, but **let us know how you're doing**
+
+
+1. Continue working on [Project 3](https://github.com/sf-wdi-37/project-03); don't forget to use slack as a resource.
+
+
+<!-- 
 
 ## Outcomes Homework
 #### Due Wednesday 6/14
