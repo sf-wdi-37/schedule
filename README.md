@@ -15,8 +15,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **9:15am <br> 10:45am** | Interview Prep (JW) | Interview Prep (BV)  | Interview Prep (JW) | Project 3 (BV, JW) | Wrapup (BV, JW)
 **11:00am <br> 12:30pm** | Project 3 (JW) | Project 3 (BV) | Project 3 (JW) | Project 3 (BV, JW) | Outcomes (NJ)
 **1:30pm <br> 3:00pm** | Project 3 (BV) | Project 3 (JW) | Project 3 (BV)  | Project 3 Presentations (BV, JW) | Wrap up and celebrations
-**3:00pm <br> 4:30pm** | Project 3 (BV) | Project 3 (JW) | Project 3 (BV) | Project 3 Presentations (BV, JW) | Celebrate!
-**Evening** | [Training][12-1E] | [Training][12-2E]  | [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
+**3:00pm <br> 4:30pm** | Project 3 (BV) | Project 3 (JW) | Project 3 (BV) | Project 3 Presentations (BV, JW) | You are developers!
+**Evening** | [Training][12-1E] | [Training][12-2E]  | [Training][12-3E] | [Training][12-4E] | Build things!
 
 
 [12-1A]: # "..."  
