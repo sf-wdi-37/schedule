@@ -14,7 +14,7 @@ Project 3 -> (Next Steps)
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:15am <br> 10:45am** | Interview Prep () | Interview Prep ()  | Interview Prep () | Project 3 () | Wrapup ()
-**11:00am <br> 12:30pm** | Project 3 (BV) | Project 3 () | Project 3 () | Project 3 () | Project 3 ()
+**11:00am <br> 12:30pm** | Project 3 () | Project 3 () | Project 3 () | Project 3 () | Project 3 ()
 **1:30pm <br> 3:00pm** | Project 3 () | Project 3 () | Outcomes (NJ)  | Project 3 Presentations | Wrap up and celebrations ()
 **3:00pm <br> 4:30pm** | Project 3 () | Project 3 () | Project 3 () | Project 3 Presentations () | Wrap up ()
 **Evening** | [Training][12-1E] | [Training][12-2E]  | [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
