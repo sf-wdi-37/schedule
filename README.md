@@ -12,7 +12,7 @@ Outcomes
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:15am <br> 10:45am** | Interview Prep (JW)[supersum](https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/super-digit) | Interview Prep (BV)  | Interview Prep (JW) | Project 3 (BV, JW) | Wrapup (BV, JW)
+**9:15am <br> 10:45am** | Interview Prep (JW)[supersum](https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/super-digit) | [Pair Mock Whiteboarding Interviews](https://github.com/sf-wdi-37/whiteboarding) (BV)  | Interview Prep (JW) | Project 3 (BV, JW) | Wrapup (BV, JW)
 **11:00am <br> 12:30pm** | Project 3 (JW) | Project 3 (BV) | Project 3 (JW) | Project 3 (BV, JW) | Outcomes (NJ)
 **1:30pm <br> 3:00pm** | Project 3 (BV) | Project 3 (JW) | Project 3 (BV)  | Project 3 Presentations (BV, JW) | Wrap up and celebrations
 **3:00pm <br> 4:30pm** | Project 3 (BV) | Project 3 (JW) | Project 3 (BV) | Project 3 Presentations (BV, JW) | You are developers!
@@ -25,7 +25,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [12-1D]: # "..."  
 [12-1E]:  https://github.com/sf-wdi-37/schedule/blob/master/hw/week-12.md#monday "Mon HW"
 
-[12-2A]: # "..."
+[12-2A]: https://github.com/sf-wdi-37/whiteboarding "Pair Whiteboarding"
 [12-2B]: # "..."
 [12-2C]: # "..."
 [12-2D]: # "..."
