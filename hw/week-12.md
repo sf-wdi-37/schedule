@@ -1,11 +1,10 @@
-# Week 1
+# Week 12
 
 <!-- ## Outcomes Homework
 #### Due Wednesday 6/14 -->
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
-<!--
 
 
 ### Monday
@@ -42,9 +41,8 @@ link to submit on [tonight's pulse check](https://docs.google.com/forms/d/e/1FAI
 ### Weekend
 
 You are developers! Go out into the world! Build things!
--->
+
 <!--
 ## Outcomes Homework
 #### Due Monday
-
 -->
